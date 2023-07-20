@@ -1,9 +1,15 @@
 # awesome-computer-graphics
 
-The Awesome Computer Graphics List! 
+# The Awesome Computer Graphics List! 
 
-An extensive collection of diverse resources to master computer graphics, encompassing books, tutorials, online courses, and more. 
 
+### Welcome to the awesome list of awe-inspiring resources for learning computer graphics! Here, we've assembled a collection of fantastic tools, books, courses, websites, and projects that will ignite your passion for this captivating field.
+
+Whether you're a novice seeking a starting point or an experienced enthusiast eager to deepen your expertise, this compilation has something for everyone. Dive into the diverse world of computer graphics, exploring topics like rendering, shader programming, 3D modeling, and much more.
+
+Discover illuminating books authored by experts, providing comprehensive insights into the theoretical foundations and practical applications of computer graphics. Engage with interactive courses and tutorials that will sharpen your skills and foster creativity.
+
+To explore real-world implementations and gain hands-on experience, venture into open-source projects and repositories crafted by seasoned developers. These projects offer a rich source of inspiration and learning opportunities.
 This is an up to date collection for the year 2023.
 Feel free to contribute!
 
