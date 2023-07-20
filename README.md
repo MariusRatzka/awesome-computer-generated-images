@@ -89,25 +89,25 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 ### Books
 
-*["Computer Graphics: Principles and Practice"]() by James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes: A classic and comprehensive book that covers all aspects of computer graphics, from fundamental principles to advanced techniques.
+*["Computer Graphics: Principles and Practice"](https://www.amazon.de/Computer-Graphics-Principles-Practice-Practices/dp/0321399528) by James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes: A classic and comprehensive book that covers all aspects of computer graphics, from fundamental principles to advanced techniques.
 
-*["OpenGL Programming Guide: The Official Guide to Learning OpenGL"]() by Dave Shreiner, Graham Sellers, John M. Kessenich, Bill M. Licea-Kane: An authoritative guide to learning OpenGL, one of the most widely used graphics APIs.
+*["OpenGL Programming Guide: The Official Guide to Learning OpenGL"](https://www.amazon.de/-/en/John-Kessenich/dp/0134495497) by Dave Shreiner, Graham Sellers, John M. Kessenich, Bill M. Licea-Kane: An authoritative guide to learning OpenGL, one of the most widely used graphics APIs.
 
-*["WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL"]() by Kouichi Matsuda and Rodger Lea: A practical guide to WebGL, a JavaScript API for rendering interactive 3D graphics in web browsers.
+*["WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL"](https://www.amazon.de/-/en/Kouichi-Matsuda-Rodger-Lea/dp/0321902920) by Kouichi Matsuda and Rodger Lea: A practical guide to WebGL, a JavaScript API for rendering interactive 3D graphics in web browsers.
 
-*["Computer Graphics Using OpenGL"]() by F.S. Hill Jr.: A comprehensive textbook that teaches computer graphics concepts using OpenGL as the primary rendering API.
+*["Computer Graphics Using OpenGL"](https://www.amazon.com/Computer-Graphics-Using-OpenGL-3rd/dp/0131496700) by F.S. Hill Jr.: A comprehensive textbook that teaches computer graphics concepts using OpenGL as the primary rendering API.
 
-*["Digital Image Processing"]() by Rafael C. Gonzalez and Richard E. Woods: Although not exclusively focused on computer graphics, this book provides a solid foundation in digital image processing, a critical aspect of computer graphics.
+*["Digital Image Processing"](https://www.amazon.de/Digital-Image-Processing-Rafael-Gonzalez/dp/013168728X) by Rafael C. Gonzalez and Richard E. Woods: Although not exclusively focused on computer graphics, this book provides a solid foundation in digital image processing, a critical aspect of computer graphics.
 
-*["Game Engine Architecture"]() by Jason Gregory: While centered around game engines, this book covers important graphics-related topics such as rendering, physics, and animation in the context of game development.
+*["Game Engine Architecture"](https://www.amazon.de/-/en/Jason-Gregory/dp/1138035459) by Jason Gregory: While centered around game engines, this book covers important graphics-related topics such as rendering, physics, and animation in the context of game development.
 
-*["Computer Graphics: A Programming Approach"]() by Steven Harrington: A hands-on approach to learning computer graphics through programming examples and exercises.
+*["Computer Graphics: A Programming Approach"](https://www.amazon.de/-/en/Steven-Harrington/dp/0070267537) by Steven Harrington: A hands-on approach to learning computer graphics through programming examples and exercises.
 
-*["GPU Gems: Programming Techniques, Tips, and Tricks for Real-Time Graphics"]() edited by Randima Fernando: A collection of articles written by graphics professionals, exploring advanced GPU programming techniques and rendering algorithms.
+*["GPU Gems: Programming Techniques, Tips, and Tricks for Real-Time Graphics"](https://www.amazon.de/-/en/Randima-Fernando/dp/0321228324) edited by Randima Fernando: A collection of articles written by graphics professionals, exploring advanced GPU programming techniques and rendering algorithms.
 
-*["OpenGL SuperBible: Comprehensive Tutorial and Reference"]() by Graham Sellers, Richard S. Wright Jr., Nicholas Haemel: An extensive resource covering OpenGL and its application in modern graphics programming.
+*["OpenGL SuperBible: Comprehensive Tutorial and Reference"](https://www.amazon.de/-/en/Graham-Sellers/dp/0672337479) by Graham Sellers, Richard S. Wright Jr., Nicholas Haemel: An extensive resource covering OpenGL and its application in modern graphics programming.
 
-*["Texturing & Modeling: A Procedural Approach"]() by David S. Ebert, Kent G. Ganev, Xavier Ochoa, and F. Kenton Musgrave: Focusing on texturing and procedural modeling, this book provides insight into creating realistic textures and models.
+*["Texturing & Modeling: A Procedural Approach"](https://www.amazon.de/Texturing-Modeling-Procedural-Approach-Kaufmann-ebook/dp/B01E54DILE) by David S. Ebert, Kent G. Ganev, Xavier Ochoa, and F. Kenton Musgrave: Focusing on texturing and procedural modeling, this book provides insight into creating realistic textures and models.
 
 *["Physically Based Rendering: From Theory to Implementation"]() by Matt Pharr, Wenzel Jakob, and Greg Humphreys: A comprehensive guide on physically based rendering, which emphasizes photorealism and accuracy in image synthesis.
 
@@ -115,25 +115,25 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 [Real-Time Rendering by Tomas Akenine-Moller](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003/ref=sr_1_1?s=books&ie=UTF8&qid=1540516813&sr=1-1&dpID=51iw1UWKNhL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch): An excellent resource for high-performance graphical applications, offering detailed explanations and numerous illustrative examples.
 
-*["Ray Tracing in One Weekend"]() by Peter Shirley: A concise and free book that guides you in implementing a basic ray tracer in C++, enabling you to generate stunning images quickly.
+*["Ray Tracing in One Weekend"](https://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf) by Peter Shirley: A concise and free book that guides you in implementing a basic ray tracer in C++, enabling you to generate stunning images quickly.
 
-*["Ray Tracing: The Next Week"]() by Peter Shirley: Builds upon the first book's project, introducing additional effects like textures and motion blur.
+*["Ray Tracing: The Next Week"](https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf) by Peter Shirley: Builds upon the first book's project, introducing additional effects like textures and motion blur.
 
-*["Ray Tracing: The Rest of Your Life"]() by Peter Shirley: The final book in the series, exploring more advanced mathematical concepts necessary for building complex and complete renderers.
+*["Ray Tracing: The Rest of Your Life"](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) by Peter Shirley: The final book in the series, exploring more advanced mathematical concepts necessary for building complex and complete renderers.
 
-*["Physically Based Rendering: From Theory to Implementation"]() by Matt Pharr: A comprehensive guide on creating a ray tracer for rendering realistic images, providing a solid theoretical understanding alongside practical code examples. It also offers a free online version!
+*["Physically Based Rendering: From Theory to Implementation"](https://www.amazon.de/-/en/Matt-Pharr/dp/0128006455) by Matt Pharr: A comprehensive guide on creating a ray tracer for rendering realistic images, providing a solid theoretical understanding alongside practical code examples. It also offers a free online version!
 
-*["3D Math Primer for Graphics and Game Development"]() by Fletcher Dunn: This book focuses on the math necessary for game development.
+*["3D Math Primer for Graphics and Game Development"](https://www.amazon.de/-/en/Fletcher-Dunn/dp/1568817231) by Fletcher Dunn: This book focuses on the math necessary for game development.
 
-*["Fundamentals of Computer Graphics"]() by Steve Marschner: An introduction to essential graphics concepts.
+*["Fundamentals of Computer Graphics"](https://www.amazon.de/-/en/Peter-Shirley/dp/1568814690) by Steve Marschner: An introduction to essential graphics concepts.
 
-*["Ray Tracing from the Ground Up"]() by Kevin Suffern: This book takes you through the process of implementing a ray tracer, starting with a basic project and introducing new concepts with each chapter.
+*["Ray Tracing from the Ground Up"](https://www.amazon.com/Ray-Tracing-Ground-Kevin-Suffern/dp/1568812728) by Kevin Suffern: This book takes you through the process of implementing a ray tracer, starting with a basic project and introducing new concepts with each chapter.
 
-*["Advanced Global Illumination"]() by Philip Dutre: Focused on the fundamentals of understanding realistic image synthesis, including light transport.
+*["Advanced Global Illumination"](https://www.amazon.de/-/en/Philip-Dutre/dp/1568813074) by Philip Dutre: Focused on the fundamentals of understanding realistic image synthesis, including light transport.
 
-*["Realistic Image Synthesis Using Photon Mapping"]() by Henrik Jensen: Teaches the math and algorithms required to implement photon mapping rendering processes, and even includes a complete C++ implementation of the technique.
+*["Realistic Image Synthesis Using Photon Mapping"](https://www.amazon.it/Realistic-Image-Synthesis-Photon-Mapping/dp/1568811470) by Henrik Jensen: Teaches the math and algorithms required to implement photon mapping rendering processes, and even includes a complete C++ implementation of the technique.
 
-*["The Book of Shaders"]() by Patricio Gonzalez and Jen Lowe: An online book that provides practical teachings on GLSL fragment shaders, replete with editable code examples showcasing how they function.
+*["The Book of Shaders"](https://thebookofshaders.com/) by Patricio Gonzalez and Jen Lowe: An online book that provides practical teachings on GLSL fragment shaders, replete with editable code examples showcasing how they function.
 
 
 ### Tools
