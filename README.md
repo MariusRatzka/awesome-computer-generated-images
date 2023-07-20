@@ -78,23 +78,24 @@ Grab your favourite drink and watch some youtube tutorials or read a book and ge
 
 ## Exploring advanced topics
 
-Once you have established a solid foundation in programming and mathematics for computer graphics, you can begin to explore more practical and advanced aspects of the field. This exploration will allow you to apply your theoretical knowledge to real-world scenarios, gaining valuable hands-on experience in various areas. Here's how you can delve deeper into advanced topics:
+After establishing a proficient foundation in programming and mathematics for computer graphics, the journey unfolds into more practical and sophisticated facets of this captivating field. This exploration enables the application of theoretical knowledge to real-world contexts, facilitating invaluable hands-on experience across diverse domains.
 
-Undertake Practical Projects: Engaging in practical projects is a great way to deepen your understanding of computer graphics. Implementing rendering techniques like path tracers, photon mapping, or ray tracing will challenge you to put your skills into action. Through these projects, you'll gain insights into the complexities of realistic image rendering and discover optimizations to improve efficiency.
+Embarking on practical projects stands as an excellent approach to further enrich your comprehension of computer graphics. Implementing rendering techniques, such as path tracers, photon mapping, and ray tracing, serves as a challenging endeavor that allows you to put your skills to the test. Through these projects, profound insights into the intricacies of realistic image rendering emerge, opening avenues for optimizing efficiency.
 
-Study Realistic Rendering Techniques: Dive into advanced rendering techniques used in industries such as film, visual effects, and video games. Learning about global illumination, subsurface scattering, and physically-based materials will elevate your ability to create more realistic and visually captivating graphics.
+Delving into advanced rendering techniques embraced in industries like film, visual effects, and video games elevates your ability to craft more realistic and visually captivating graphics. Acquiring knowledge in global illumination, subsurface scattering, and physically-based materials empowers you to create immersive visual experiences.
 
-GPU Programming and Optimization: Familiarize yourself with GPU programming techniques and learn to harness the power of modern graphics hardware. Optimization is vital for achieving real-time rendering and interactive graphics, so understanding how to leverage the capabilities of GPUs effectively is essential.
+Proficiency in GPU programming and optimization is imperative to leverage the capabilities of modern graphics hardware effectively. Understanding how to harness the power of GPUs contributes significantly to achieving real-time rendering and interactive graphics.
 
-Experiment with Shader Programming: Shaders play a crucial role in computer graphics, defining how objects are rendered and visual effects are achieved. By experimenting with different types of shaders, such as vertex, fragment, and geometry shaders, you'll gain practical experience in crafting stunning visual effects.
+Another vital aspect of computer graphics entails experimenting with shader programming. Shaders play a pivotal role in defining object rendering and achieving visual effects. Exploring various shader types, including vertex, fragment, and geometry shaders, imparts practical experience in crafting visually stunning effects.
 
-Study Ray Tracing Books and Implementations: Deepen your knowledge by studying specialized books on ray tracing, like "Physically Based Rendering: From Theory to Implementation" and "Realistic Image Synthesis Using Photon Mapping." These books provide comprehensive insights into the theory and practice of ray tracing, and you can complement your learning by exploring available implementations.
+Deepen your expertise by studying specialized books on ray tracing, such as "Physically Based Rendering: From Theory to Implementation" and "Realistic Image Synthesis Using Photon Mapping." These comprehensive works offer insights into both the theoretical foundations and practical implementations of ray tracing.
 
-Participate in Graphics Communities: Engage with the computer graphics community through online forums, social media groups, and conferences. Sharing ideas, discussing challenges, and seeking feedback from peers can enhance your understanding and inspire new creative approaches.
+Engaging with the vibrant computer graphics community through online forums, social media groups, and conferences nurtures fruitful exchanges of ideas, discussions of challenges, and constructive feedback. Active participation fosters a deeper understanding and inspires innovative creative approaches.
 
-Keep Up with Industry Trends: The field of computer graphics is continually evolving, with new techniques and technologies emerging regularly. Stay updated on the latest advancements by reading research papers, attending conferences, and following graphics-focused blogs and websites.
+Furthermore, staying informed about industry trends is paramount, given the constant evolution of computer graphics. Reading research papers, attending conferences, and following graphics-focused blogs and websites ensure you remain up-to-date with the latest advancements, propelling your knowledge forward.
 
-By actively exploring advanced topics in computer graphics, you'll continue to refine your skills, push the boundaries of your creativity, and develop a deeper appreciation for the art and science of generating stunning visual experiences.
+By proactively exploring advanced topics in computer graphics, your skills evolve, pushing the boundaries of creativity, and fostering profound appreciation for the art and science of crafting mesmerizing visual experiences. Embrace this enriching journey as you continue to unveil the boundless possibilities within the captivating realm of computer graphics.
+
 
 <br><br>
 
@@ -216,31 +217,31 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 <br><br>
 
+
 ## Courses  (Work in Progress)
 
-["Computer Graphics Specialization"]() by University of California, San Diego: A series of courses offered on Coursera that cover a wide range of computer graphics topics, from 3D modeling to rendering techniques.
+<b>FREE! </b>[The University of California, San Diego: Computer Graphics](https://www.edx.org/learn/computer-graphics) by Ravi Ramamoorthi, Professor at UC San Diego. Students will learn to create computer-generated images of 3D scenes, including flybys of objects, make a real-time scene viewer, and create very realistic images with raytracing. <br><b>Duration: 6 weeks(6–12 hours per week)</b>
+<br>
 
-["Interactive Computer Graphics"]() by Edward Angel, Dave Shreiner, and Vicki Shreiner: A course available on edX that provides a comprehensive introduction to computer graphics and interactive visualizations.
+[Design & implement interactive VR software apps](https://www.edx.org/professional-certificate/ucsandiegox-virtual-reality-app-development?index=product&objectID=program-f5448140-88fc-451c-82cf-976504bdfa8d&webview=false&campaign=Virtual+Reality+%28VR%29+App+Development&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) held by instructors from The University of California, San Diego
+ <br><b>Duration: 5 months(5 - 9 hours per week)</b>
+<br>
 
-["Computer Graphics and Digital Image Processing"]() by Indian Institute of Technology Kanpur: A course offered on NPTEL that covers fundamental concepts of computer graphics and digital image processing.
+[Explore the fundamentals of linear algebra](https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra?index=product&objectID=program-4710304d-7019-4ff3-be9f-a0fddc39ba44&webview=false&campaign=Introductory+Linear+Algebra&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics)  hostet by Greg Mayer, Academic Professional in the School of Mathematics at Georgia Tech.
+ <br><b>Duration: 2 months(5 - 6 hours per week)</b>
+<br>
 
-["Introduction to Computer Graphics"]() by Northwestern University: A course available on Coursera that provides an introduction to the principles of computer graphics and 3D rendering.
+[Explore game development and design](https://www.edx.org/professional-certificate/harvardx-computer-science-for-game-development?index=product&objectID=program-64b3c632-8610-4b17-9a48-9efee7fa3266&webview=false&campaign=Computer+Science+for+Game+Development&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) held by instructors from Harvard University. These courses will lead you through the most popular undergraduate course at Harvard, CS50, an Introduction to Computer Science. 
+ <br><b>Duration: 6 months( 6 - 14 hours per week)</b>
+<br>
 
-["Game Design and Development](): Video Game Character Design" by Rochester Institute of Technology: A course on edX that focuses on character design and animation for video games, incorporating computer graphics techniques.
+[Columbia University: Animation and CGI Motion](https://www.edx.org/course/animation-and-cgi-motion-2?index=product&objectID=course-95c877f3-076a-4dee-a640-9c6069ca0114&webview=false&campaign=Animation+and+CGI+Motion&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) by Eitan Grinspun, Department of Computer Science at Columbia University. This course will show you how to create lifelike animations focusing on the technical aspects of CGI animation and also give you a glimpse into how studios approach the art of physically-based animation. 
+ <br><b>Duration: 12 weeks( 8–10 hours per week)</b>
+<br>
 
-["Introduction to Computer Graphics"]() by Trinity College Dublin: A course available on FutureLearn that explores the principles of computer graphics and 3D modeling.
+["Computer Graphics"](https://www.udemy.com/course/computer_graphics_subject/) by Shrinath Pai. This course is designed to meet the requirement of a Diploma / UG / PG Computer Science / Application Students.
 
-["Real-Time 3D Graphics with WebGL 2"]() by Interactive Computer Graphics (IN4MATX 151): A course offered by the University of California, Irvine, focusing on real-time graphics programming using WebGL 2.
-
-["Computer Graphics with OpenGL"]() by Karlsruhe Institute of Technology: A course on edX that provides an in-depth look at computer graphics principles and programming with OpenGL.
-
-["Introduction to Game Development"]() by Michigan State University: A course on Coursera that covers various aspects of game development, including computer graphics for game design.
-
-["Computer Graphics for Artists"]() by California Institute of the Arts (CalArts): A course on Coursera that introduces artists to the concepts and tools of computer graphics for creative expression.
-
-["Foundations of Computer Graphics"]() by New York University Tandon School of Engineering: A course on Udacity that explores the mathematical foundations of computer graphics.
-
-["Advanced Computer Graphics"]() by ETH Zurich: A course available on edX that delves into advanced topics in computer graphics, including rendering algorithms and shading techniques.
+["Interactive Computer Graphics"](https://www.coursera.org/learn/interactive-computer-graphics) by Takeo Igarashi. This course will introduce various interactive tools developed in computer graphics research field with their design rationales and algorithms. 
 
 ["Computer Graphics - San Diego"](https://www.edx.org/course/computer-graphics-2) by Ravi Ramamoorthi: This course focuses on teaching the necessary math to program an offline ray tracer.
 
