@@ -27,9 +27,10 @@ This is an up to date collection for the year 2023.
  * **[Youtube Tutorials](#youtube-tutorials)**
  * **[Books](#books)** 
  * **[Tools](#tools)**
- * **[Courses WIP](#courses)**
+ * **[Courses](#courses)**
  * **[Websites](#websites)**
  * **[Paper](#paper)**
+ * **[Fun Facts about CGI](#fun-facts)**
 
  
 
@@ -78,24 +79,23 @@ Grab your favourite drink and watch some youtube tutorials or read a book and ge
 
 ## Exploring advanced topics
 
-After establishing a proficient foundation in programming and mathematics for computer graphics, the journey unfolds into more practical and sophisticated facets of this captivating field. This exploration enables the application of theoretical knowledge to real-world contexts, facilitating invaluable hands-on experience across diverse domains.
+Once you've built a strong foundation in programming and mathematics for computer graphics, the exciting journey leads you to explore more practical and advanced aspects of this fascinating field. It's a hands-on experience that allows you to apply your theoretical knowledge to real-world scenarios.
 
-Embarking on practical projects stands as an excellent approach to further enrich your comprehension of computer graphics. Implementing rendering techniques, such as path tracers, photon mapping, and ray tracing, serves as a challenging endeavor that allows you to put your skills to the test. Through these projects, profound insights into the intricacies of realistic image rendering emerge, opening avenues for optimizing efficiency.
+A great way to enhance your understanding is by taking on practical projects. You can implement rendering techniques like path tracers, photon mapping, and ray tracing. These challenges will put your skills to the test and give you valuable insights into realistic image rendering and optimization.
 
-Delving into advanced rendering techniques embraced in industries like film, visual effects, and video games elevates your ability to craft more realistic and visually captivating graphics. Acquiring knowledge in global illumination, subsurface scattering, and physically-based materials empowers you to create immersive visual experiences.
+You can also dive into advanced rendering techniques used in film, visual effects, and video games. Learning about global illumination, subsurface scattering, and physically-based materials will help you create immersive and visually captivating graphics.
 
-Proficiency in GPU programming and optimization is imperative to leverage the capabilities of modern graphics hardware effectively. Understanding how to harness the power of GPUs contributes significantly to achieving real-time rendering and interactive graphics.
+Mastering GPU programming and optimization is essential to make the most of modern graphics hardware. Understanding how to utilize GPUs effectively is crucial for achieving real-time rendering and interactive graphics.
 
-Another vital aspect of computer graphics entails experimenting with shader programming. Shaders play a pivotal role in defining object rendering and achieving visual effects. Exploring various shader types, including vertex, fragment, and geometry shaders, imparts practical experience in crafting visually stunning effects.
+Experimenting with shader programming is another vital aspect of computer graphics. By exploring different shader types, you'll gain practical experience in creating stunning visual effects.
 
-Deepen your expertise by studying specialized books on ray tracing, such as "Physically Based Rendering: From Theory to Implementation" and "Realistic Image Synthesis Using Photon Mapping." These comprehensive works offer insights into both the theoretical foundations and practical implementations of ray tracing.
+Deepen your expertise by studying specialized books on ray tracing, like "Physically Based Rendering: From Theory to Implementation" and "Realistic Image Synthesis Using Photon Mapping." These books provide valuable insights into both the theory and practical applications of ray tracing.
 
-Engaging with the vibrant computer graphics community through online forums, social media groups, and conferences nurtures fruitful exchanges of ideas, discussions of challenges, and constructive feedback. Active participation fosters a deeper understanding and inspires innovative creative approaches.
+Engaging with the computer graphics community through forums, social media, and conferences allows you to exchange ideas, discuss challenges, and receive feedback. It's a supportive environment that fosters a deeper understanding and inspires creativity.
 
-Furthermore, staying informed about industry trends is paramount, given the constant evolution of computer graphics. Reading research papers, attending conferences, and following graphics-focused blogs and websites ensure you remain up-to-date with the latest advancements, propelling your knowledge forward.
+Stay informed about industry trends by reading research papers, attending conferences, and following graphics-focused blogs and websites. The field of computer graphics is always evolving, and staying updated will keep your knowledge fresh and relevant.
 
-By proactively exploring advanced topics in computer graphics, your skills evolve, pushing the boundaries of creativity, and fostering profound appreciation for the art and science of crafting mesmerizing visual experiences. Embrace this enriching journey as you continue to unveil the boundless possibilities within the captivating realm of computer graphics.
-
+As you actively explore advanced topics, your skills will improve, and your creativity will flourish. Embrace this enriching journey into the captivating world of computer graphics, where endless possibilities await your exploration.
 
 <br><br>
 
@@ -361,5 +361,37 @@ By proactively exploring advanced topics in computer graphics, your skills evolv
 [Hacker News Thread on Learning Computer Graphics](https://news.ycombinator.com/item?id=26156783): A discussion thread on how to learn computer graphics, with a summarized comment for those short on time.
 
 [Computer Color is Broken](https://youtu.be/LKnqECcg6Gw): A video about how color representation and compression in computers can distort the blur effect.
+
+<br><br>
+## Fun Facts
+* **The First CGI in a Movie: The first use of CGI in a movie was in the 1973 film "Westworld," where a computer-generated hand was used for a brief scene.**
+
+* **The First Full-Length CGI Movie: "Toy Story" (1995) was the first full-length feature film entirely created using CGI. It was a groundbreaking achievement in animation and a huge success.**
+
+* **Realistic Hair and Fur: Creating realistic hair and fur in CGI is a complex task. Pixar's "Monsters, Inc." (2001) was a milestone in CGI hair animation, showcasing incredibly detailed and lifelike fur.**
+
+* **Water Simulation Challenges: Simulating realistic water in CGI is notoriously difficult and computationally intensive. The ocean scenes in movies like "Pirates of the Caribbean" and "The Perfect Storm" pushed the boundaries of water simulation technology.**
+
+* **CGI in Food Commercials: Many food commercials use CGI to create mouth-watering images of food. The ice-cold condensation on a soda bottle or the sizzling cheese on a pizza is often computer-generated.**
+
+* **Facial Motion Capture: CGI often uses facial motion capture to realistically animate characters' expressions and emotions. Actors wear markers on their faces that are tracked by cameras to capture their facial movements.**
+
+* **Virtual Production: Advancements in CGI technology have led to virtual production techniques, where filmmakers can shoot scenes in a virtual environment, allowing for real-time visualization and interaction with CGI elements.**
+
+* **Virtual Actors: CGI has made it possible to create virtual actors that closely resemble real humans. The character Gollum in "The Lord of the Rings" trilogy was a groundbreaking example of a CGI character interacting with live-action actors.**
+
+* **Real-Time CGI in Video Games: Video game graphics have evolved tremendously, with modern games using real-time CGI to create stunning and immersive virtual worlds.**
+
+* **Architectural Visualization: CGI is extensively used in architectural visualization, allowing architects and designers to create photorealistic renderings of buildings and spaces before construction begins.**
+
+* **CGI in Medicine: Medical professionals use CGI for visualizations in areas like surgery simulation, anatomical education, and medical research.**
+
+* **CGI Animals: CGI has become increasingly prevalent in bringing animals to life on screen. Movies like "The Jungle Book" and "The Lion King" used CGI to create realistic animal characters.**
+
+* **The Uncanny Valley: The "uncanny valley" is a term used in CGI to describe the discomfort people feel when a computer-generated character looks almost human but falls slightly short, creating a sense of unease.**
+
+* **Pre-Visualization: CGI is used in pre-visualization to plan and visualize complex scenes before filming. This helps filmmakers plan camera angles, action sequences, and special effects in advance.**
+
+* **CGI in Advertising: CGI is widely used in advertising to create visually striking and attention-grabbing commercials for products and brands.**
 
 
