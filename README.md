@@ -45,10 +45,11 @@ The term "CG," often utilized as an abbreviation for "computer graphics," has be
 The profound technological strides witnessed in computer graphics have been remarkable. From rudimentary wireframe models to contemporary photorealistic imagery, advancements have been astounding. Real-time rendering and virtual reality have extended the possibilities for creativity and innovation. Aspiring enthusiasts can access diverse resources, encompassing books, online courses, open-source software, and interactive platforms, to acquire proficiency in various aspects of CG, be it shader programming, rendering algorithms, or scene composition.
 
 Dynamic and continually evolving, computer graphics remains at the vanguard of technological progress, reshaping our perception and interaction with the digital realm. Artists, programmers, and inquisitive learners alike can embark on a journey of creativity and exploration within the realm of computer graphics.
+<br><br>
 
 
 ### How to get started?
-####The deep dive:
+#### The deep dive:
 To begin, grasp the fundamentals of programming, which are fundamental for manipulating and generating images. Delve into a programming language like Python or JavaScript to acquaint yourself with variables, loops, and functions – crucial building blocks for your journey.
 
 As you dive deeper into computer graphics, recognize the significance of C/C++. Widely utilized in the field for its performance and compatibility with graphics APIs like OpenGL and DirectX, gaining proficiency in C/C++ will open numerous doors for graphics programming endeavors.
@@ -69,9 +70,10 @@ Maintaining a curious mindset is key to embracing the dynamic nature of computer
 
 With perseverance and an insatiable appetite for discovery, you'll craft visually captivating experiences and embark on a gratifying career in the ever-evolving world of computer graphics. Continuously explore, experiment, and create to unlock your true potential in this mesmerizing realm.
 
-####Beginner-friendly
+#### Beginner-friendly
 Grab your favourite drink and watch some youtube tutorials or read a book and get an idea of the concepts. If you like what you see or read then continue with a deep dive. When you do not like coding: Blender and 3D modelling skills can give you an artistic deep dive into this world.
 
+<br><br>
 
 ### Exploring advanced topics
 
@@ -93,7 +95,7 @@ Keep Up with Industry Trends: The field of computer graphics is continually evol
 
 By actively exploring advanced topics in computer graphics, you'll continue to refine your skills, push the boundaries of your creativity, and develop a deeper appreciation for the art and science of generating stunning visual experiences.
 
-
+<br><br>
 
 ### Youtube Tutorials
 
@@ -109,7 +111,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 [BlenderGuru](https://www.youtube.com/@blenderguru): Andrew Price mission is to help everyone learn 3D for free within Blender.
 
-
+<br><br>
 
 ### Books
 
@@ -161,6 +163,8 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 ["The Book of Shaders"](https://thebookofshaders.com/) by Patricio Gonzalez and Jen Lowe: An online book that provides practical teachings on GLSL fragment shaders, replete with editable code examples showcasing how they function.
 
+<br><br>
+
 
 ### Tools
 
@@ -209,7 +213,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 [Natron](https://natrongithub.github.io/): An powerful open-source Digital Compositor
 
-
+<br><br>
 
 ### Courses  (Work in Progress)
 
@@ -243,6 +247,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 ["Computer Graphics & Imaging - Berkeley"](https://cs184.eecs.berkeley.edu/sp23) by Ren Ng (Spring 2018): A course at Berkeley covering computer graphics and imaging topics.
 
+<br><br>
 
 ### Websites
 
@@ -274,6 +279,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 ["Ray Tracey's Blog"](http://raytracey.blogspot.com/): Sam Lapere's blog, the leader of the scientific team at EPFL Blue Brain Project, featuring many posts about real-time rendering.
 
+<br><br>
 
 ### Projects/Repositories
 
@@ -317,6 +323,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners): A step-by-step guide on implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 
+<br><br>
 
 ### Paper
 
@@ -325,6 +332,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 ["The SIGGRAPH Papers"](https://s2023.siggraph.org/program/technical-papers/): The official repository of papers presented at the annual SIGGRAPH conference, covering the latest research and advancements in computer graphics and interactive techniques.
 
 
+<br><br>
 
 ### Miscellaneous
 
