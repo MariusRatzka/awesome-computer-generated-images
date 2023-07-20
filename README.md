@@ -8,6 +8,10 @@ This is an up to date collection for the year 2023.
 Feel free to contribute!
 
 
+<img src="https://github.com/MrJanes/awesome-computer-graphics/blob/main/media/D-1a.png" align="center" width="1000">
+
+
+
 ## Contents
 
 * **[What is computer graphics?](#what-is-computer-graphics)**
@@ -19,41 +23,38 @@ Feel free to contribute!
 * **[Websites](#websites)**
 
 ### What is computer graphics?
-Computer graphics is a fascinating and multifaceted field that revolves around the creation, manipulation, and rendering of visual content using computers. Its scope ranges from simple 2D images to complex 3D models, and it finds applications in a wide array of industries and technologies.
+Computer graphics encompasses a captivating and multifaceted domain that revolves around the generation, manipulation, and rendering of visual content through computational means. Its scope spans from rudimentary 2D images to intricate 3D models, finding wide-ranging applications across diverse industries and technologies.
 
-At its core, computer graphics is about harnessing the power of computers to generate visual representations of data. This data could include geometric information about objects, textures that provide surface details, lighting conditions to mimic real-world illumination, and various other attributes necessary to create a compelling visual experience.
-One of the fundamental components of computer graphics is the concept of rendering. Rendering is the process of taking raw data and transforming it into an image that can be displayed on a screen or printed on paper. This involves simulating the behavior of light as it interacts with objects, materials, and the environment to generate realistic or stylized images.
+At its core, computer graphics harnesses computational power to produce visual representations of data, comprising geometric attributes of objects, textures for surface details, lighting conditions to emulate real-world illumination, and other essential elements crucial for immersive visual experiences. Rendering, a fundamental facet of computer graphics, entails transforming raw data into images suitable for display on screens or reproduction on print media. This process entails simulating light interactions with objects, materials, and environments to engender realistic or stylized imagery.
 
-In the context of computer graphics, the term "CG" is often used as an abbreviation for "computer graphics." CG has become an integral part of modern life, permeating many aspects of entertainment, education, and design. Video games, for instance, heavily rely on computer graphics to create immersive and interactive virtual worlds. CG also plays a crucial role in the creation of visual effects in movies, enabling filmmakers to bring fantastical creatures, breathtaking landscapes, and awe-inspiring scenes to life on the big screen.
-Beyond entertainment, computer graphics finds applications in fields like architecture, engineering, medicine, and scientific visualization. Architects use CG to create realistic 3D models of buildings and environments, allowing clients to visualize their future spaces. Engineers employ CG to simulate complex systems and processes, aiding in product design and testing. In medicine, CG is utilized for anatomical visualizations and surgical simulations, providing valuable insights to healthcare professionals.
+The term "CG," often utilized as an abbreviation for "computer graphics," has become integral to modern life, permeating entertainment, education, and design domains. Notably, video games leverage computer graphics to create interactive virtual realms. In the realm of filmmaking, CG significantly contributes to visual effects, bringing fantastical beings, awe-inspiring landscapes, and captivating sequences to cinematic fruition. Beyond entertainment, computer graphics finds utility in architecture, engineering, medicine, and scientific visualization. Architects deploy CG to engender realistic 3D models of structures and environments, facilitating client visualization. Engineers employ CG for complex system simulations and product design. Medicine benefits from CG for anatomical visualizations and surgical simulations, bolstering healthcare comprehension.
 
-The advancements in computer graphics technology over the years have been nothing short of remarkable. From early wireframe models and flat-shaded objects to the highly detailed and photorealistic imagery we see today, the progress has been astounding. With the rise of real-time rendering and virtual reality, computer graphics continues to push the boundaries of what is visually achievable and offers endless possibilities for creativity and innovation.
-For aspiring computer graphics enthusiasts, there are numerous resources available to learn and master this exciting field. From books and online courses to open-source software and interactive platforms, individuals can delve into various aspects of CG, whether they are interested in programming shaders, developing rendering algorithms, or creating visually stunning scenes.
+The profound technological strides witnessed in computer graphics have been remarkable. From rudimentary wireframe models to contemporary photorealistic imagery, advancements have been astounding. Real-time rendering and virtual reality have extended the possibilities for creativity and innovation. Aspiring enthusiasts can access diverse resources, encompassing books, online courses, open-source software, and interactive platforms, to acquire proficiency in various aspects of CG, be it shader programming, rendering algorithms, or scene composition.
 
-Computer graphics, as a dynamic and evolving discipline, promises to remain at the forefront of technological advancements, shaping the way we perceive and interact with the digital world around us. Whether you're an artist, a programmer, or a curious learner, exploring the realm of computer graphics can open up a world of creativity and discovery.
+Dynamic and continually evolving, computer graphics remains at the vanguard of technological progress, reshaping our perception and interaction with the digital realm. Artists, programmers, and inquisitive learners alike can embark on a journey of creativity and exploration within the realm of computer graphics.
 
 ### How to get started?
-Here's a more detailed breakdown of the essential steps to start your exploration of computer graphics:
+Embarking on the captivating journey of computer graphics requires a comprehensive approach to ensure a strong foundation and continuous growth. Here's a fluid text detailing essential steps to initiate your exploration and progression in this dynamic field:
 
-Programming Fundamentals: Computer graphics heavily relies on programming to manipulate and generate images. If you're new to programming, start by learning the basics of a programming language, such as Python or JavaScript, to familiarize yourself with fundamental concepts like variables, loops, and functions.
+To begin, grasp the fundamentals of programming, which are fundamental for manipulating and generating images. Delve into a programming language like Python or JavaScript to acquaint yourself with variables, loops, and functions – crucial building blocks for your journey.
 
-C/C++ Proficiency: While various programming languages can be used in computer graphics, C/C++ is widely used in this field due to its performance and compatibility with graphics APIs like OpenGL and DirectX. Familiarizing yourself with C/C++ will open up many opportunities to delve into graphics programming.
+As you dive deeper into computer graphics, recognize the significance of C/C++. Widely utilized in the field for its performance and compatibility with graphics APIs like OpenGL and DirectX, gaining proficiency in C/C++ will open numerous doors for graphics programming endeavors.
 
-Mathematics for Computer Graphics: Mathematics plays a crucial role in computer graphics, particularly linear algebra and geometry. Linear algebra helps in transforming objects and understanding vector operations, while geometry is essential for modeling and rendering 3D objects. Focus on concepts like vectors, matrices, transformations, and coordinate systems.
+Moreover, embrace the role of mathematics in computer graphics, specifically linear algebra and geometry. Understanding linear algebra facilitates object transformations and vector operations, while geometry is instrumental in 3D object modeling and rendering. Focus on concepts like vectors, matrices, transformations, and coordinate systems to reinforce your mathematical prowess.
 
-Choose a Math-Focused Book: In the provided list, you'll find books specifically dedicated to teaching the math fundamentals needed for computer graphics. Pick one of these books, such as "3D Math Primer for Graphics and Game Development" by Fletcher Dunn, and work through it diligently. Doing so will provide a solid understanding of the math concepts applicable to graphics programming.
+Complement your studies with a math-focused book from the available resources, such as ["3D Math Primer for Graphics and Game Development"]() by Fletcher Dunn. Thoroughly working through this book will lay a solid groundwork for applying mathematical concepts to graphics programming.
 
-Practice and Apply: As you progress through the math book, don't forget to apply the knowledge practically. Experiment with simple geometric transformations and rendering techniques using C/C++ and a graphics API like OpenGL. Hands-on practice will reinforce your learning and help you see the direct application of the math concepts.
+Practical application is indispensable for cementing knowledge. As you progress through the math book, engage in hands-on experimentation. Utilize C/C++ and a graphics API like OpenGL to experiment with geometric transformations and rendering techniques. This practical experience bridges theory with real-world applications.
 
-Expand Your Knowledge: As you become more comfortable with the basics, consider exploring more advanced topics in computer graphics, such as shading models, lighting techniques, and rendering algorithms. Books like "Real-Time Rendering" by Tomas Akenine-Moller can be valuable resources for delving deeper into these topics.
+Venture beyond the basics by exploring advanced topics in computer graphics, including shading models, lighting techniques, and rendering algorithms. Immersing yourself in the insights provided by ["Real-Time Rendering"]() by Tomas Akenine-Moller will sharpen your understanding of these intricate aspects.
 
-Engage with the Community: Join online forums, communities, and social media groups dedicated to computer graphics. Engaging with like-minded individuals can offer support, advice, and inspiration on your learning journey. Websites like Stack Overflow, Reddit's r/GraphicsProgramming, and graphics-related Discord servers are excellent places to connect with others in the field.
+Broaden your horizons by participating in computer graphics communities. Engaging with like-minded individuals in forums like Stack Overflow, Reddit's r/GraphicsProgramming, and graphics-oriented Discord servers offers invaluable support, advice, and inspiration.
 
-Learn from Projects and Code: Study and dissect open-source graphics projects and repositories like PBRT, Tinyrenderer, and ShaderToy. Analyzing code written by experienced developers can provide insights into different rendering techniques and help you improve your own coding skills.
+Learning from open-source graphics projects and repositories, such as PBRT, Tinyrenderer, and ShaderToy, will deepen your comprehension of diverse rendering techniques and enhance your coding prowess.
 
-Stay Curious and Experiment: Computer graphics is a dynamic and evolving field with constant advancements. Stay curious, read research papers, watch conference presentations, and experiment with new ideas and techniques. The journey of learning in computer graphics is never-ending, and embracing a curious mindset will keep you engaged and inspired.
+Maintaining a curious mindset is key to embracing the dynamic nature of computer graphics. Keep abreast of the latest advancements through research papers, conference presentations, and personal experimentation. Embrace the endless possibilities and creative potential that computer graphics has to offer.
 
-Remember, the key to learning computer graphics is perseverance and continuous exploration. The combination of programming skills, solid math knowledge, and a willingness to experiment will empower you to create stunning visual experiences and embark on a fulfilling career in the field of computer graphics.
+With perseverance and an insatiable appetite for discovery, you'll craft visually captivating experiences and embark on a gratifying career in the ever-evolving world of computer graphics. Continuously explore, experiment, and create to unlock your true potential in this mesmerizing realm.
 
 ### Exploring advanced topics
 
@@ -209,7 +210,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 *["Graphics Gems"](): A collection of code snippets and algorithms contributed by various graphics professionals, providing practical solutions to common graphics-related problems.
 
-*["ShaderX"}(): A series of books edited by Wolfgang Engel, featuring articles and code examples on advanced rendering techniques and shader programming.
+*["ShaderX"](): A series of books edited by Wolfgang Engel, featuring articles and code examples on advanced rendering techniques and shader programming.
 
 *["GPU Gems"](): Another series of books, published by NVIDIA, that covers advanced rendering techniques and GPU programming tips for real-time graphics.
 
