@@ -1,6 +1,8 @@
-# awesome-computer-graphics
+# awesome-computer-graphics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # The Awesome Computer Graphics List! 
+
+<img src="https://github.com/MrJanes/awesome-computer-graphics/blob/main/media/D-1a.png" align="center" width="1000">
 
 
 ### Welcome to the awesome list of awe-inspiring resources for learning computer graphics! Here, we've assembled a collection of fantastic tools, books, courses, websites, and projects that will ignite your passion for this captivating field.
@@ -11,16 +13,16 @@ Discover illuminating books authored by experts, providing comprehensive insight
 
 To explore real-world implementations and gain hands-on experience, venture into open-source projects and repositories crafted by seasoned developers. These projects offer a rich source of inspiration and learning opportunities.
 This is an up to date collection for the year 2023.
-Feel free to contribute!
+
+#### Feel free to contribute!
 
 
-<img src="https://github.com/MrJanes/awesome-computer-graphics/blob/main/media/D-1a.png" align="center" width="1000">
 
 
 
 ## Contents
 
-* **[What is computer graphics?](#what-is-computer-graphics)**
+* **[What exactly is computer graphics?](#what-exactly-is-computer-graphics)**
 * **[How to get started?](#how-to-get-started)**
 * **[Exploring advanced topics](#exploring-advanced-topics)**
 * **[Books](#books)** 
@@ -28,7 +30,7 @@ Feel free to contribute!
 * **[Courses](#courses)**
 * **[Websites](#websites)**
 
-### What is computer graphics?
+### What exactly is computer graphics?
 Computer graphics encompasses a captivating and multifaceted domain that revolves around the generation, manipulation, and rendering of visual content through computational means. Its scope spans from rudimentary 2D images to intricate 3D models, finding wide-ranging applications across diverse industries and technologies.
 
 At its core, computer graphics harnesses computational power to produce visual representations of data, comprising geometric attributes of objects, textures for surface details, lighting conditions to emulate real-world illumination, and other essential elements crucial for immersive visual experiences. Rendering, a fundamental facet of computer graphics, entails transforming raw data into images suitable for display on screens or reproduction on print media. This process entails simulating light interactions with objects, materials, and environments to engender realistic or stylized imagery.
@@ -38,6 +40,7 @@ The term "CG," often utilized as an abbreviation for "computer graphics," has be
 The profound technological strides witnessed in computer graphics have been remarkable. From rudimentary wireframe models to contemporary photorealistic imagery, advancements have been astounding. Real-time rendering and virtual reality have extended the possibilities for creativity and innovation. Aspiring enthusiasts can access diverse resources, encompassing books, online courses, open-source software, and interactive platforms, to acquire proficiency in various aspects of CG, be it shader programming, rendering algorithms, or scene composition.
 
 Dynamic and continually evolving, computer graphics remains at the vanguard of technological progress, reshaping our perception and interaction with the digital realm. Artists, programmers, and inquisitive learners alike can embark on a journey of creativity and exploration within the realm of computer graphics.
+
 
 ### How to get started?
 Embarking on the captivating journey of computer graphics requires a comprehensive approach to ensure a strong foundation and continuous growth. Here's a fluid text detailing essential steps to initiate your exploration and progression in this dynamic field:
@@ -62,6 +65,7 @@ Maintaining a curious mindset is key to embracing the dynamic nature of computer
 
 With perseverance and an insatiable appetite for discovery, you'll craft visually captivating experiences and embark on a gratifying career in the ever-evolving world of computer graphics. Continuously explore, experiment, and create to unlock your true potential in this mesmerizing realm.
 
+
 ### Exploring advanced topics
 
 Once you have established a solid foundation in programming and mathematics for computer graphics, you can begin to explore more practical and advanced aspects of the field. This exploration will allow you to apply your theoretical knowledge to real-world scenarios, gaining valuable hands-on experience in various areas. Here's how you can delve deeper into advanced topics:
@@ -81,6 +85,7 @@ Participate in Graphics Communities: Engage with the computer graphics community
 Keep Up with Industry Trends: The field of computer graphics is continually evolving, with new techniques and technologies emerging regularly. Stay updated on the latest advancements by reading research papers, attending conferences, and following graphics-focused blogs and websites.
 
 By actively exploring advanced topics in computer graphics, you'll continue to refine your skills, push the boundaries of your creativity, and develop a deeper appreciation for the art and science of generating stunning visual experiences.
+
 
 ### Books
 
@@ -130,6 +135,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 *["The Book of Shaders"]() by Patricio Gonzalez and Jen Lowe: An online book that provides practical teachings on GLSL fragment shaders, replete with editable code examples showcasing how they function.
 
+
 ### Tools
 
 *[DirectX](): A collection of APIs developed by Microsoft, commonly used for graphics and multimedia applications on Windows platforms. It includes Direct3D, which is similar to OpenGL in functionality.
@@ -170,6 +176,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 *[ArmorTools](): An open-source alternative to substance painter/designer
 
+
 ### Courses
 
 *["Computer Graphics Specialization"]() by University of California, San Diego: A series of courses offered on Coursera that cover a wide range of computer graphics topics, from 3D modeling to rendering techniques.
@@ -201,6 +208,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 *["SIGGRAPH University"](): A playlist featuring popular courses from the annual SIGGRAPH Conference.
 
 *["Computer Graphics & Imaging - Berkeley"]() by Ren Ng (Spring 2018): A course at Berkeley covering computer graphics and imaging topics.
+
 
 ### Websites
 
@@ -287,6 +295,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 *[Marble Marcher](): A game where you navigate a marble through fractal stages as quickly as possible to reach the goal, using ray marching for visually stunning effects.
 
 *[3D Game Shaders for Beginners](): A step-by-step guide on implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+
 
 ### Miscellaneous
 
