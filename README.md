@@ -1,1 +1,306 @@
 # awesome-computer-graphics
+
+The Awesome Computer Graphics List! An extensive collection of diverse resources to master computer graphics, encompassing books, tutorials, online courses, and more. 
+This is an up to date collection for the year 2023.
+Feel free to contribute!
+
+
+## Contents
+
+* **[What is computer graphics?](#what-is-computer-graphics)**
+* **[How to get started?](#how-to-get-started)**
+* **[I want to learn more advanced stuff](#i-want-to-learn-more-advanced-stuff)**
+* **[Books](#books)** 
+* **[Tools](#tools)**
+* **[Courses](#courses)**
+* **[Sites](#sites)**
+
+### What is computer graphics?
+Computer graphics is a fascinating and multifaceted field that revolves around the creation, manipulation, and rendering of visual content using computers. Its scope ranges from simple 2D images to complex 3D models, and it finds applications in a wide array of industries and technologies.
+
+At its core, computer graphics is about harnessing the power of computers to generate visual representations of data. This data could include geometric information about objects, textures that provide surface details, lighting conditions to mimic real-world illumination, and various other attributes necessary to create a compelling visual experience.
+
+One of the fundamental components of computer graphics is the concept of rendering. Rendering is the process of taking raw data and transforming it into an image that can be displayed on a screen or printed on paper. This involves simulating the behavior of light as it interacts with objects, materials, and the environment to generate realistic or stylized images.
+
+In the context of computer graphics, the term "CG" is often used as an abbreviation for "computer graphics." CG has become an integral part of modern life, permeating many aspects of entertainment, education, and design. Video games, for instance, heavily rely on computer graphics to create immersive and interactive virtual worlds. CG also plays a crucial role in the creation of visual effects in movies, enabling filmmakers to bring fantastical creatures, breathtaking landscapes, and awe-inspiring scenes to life on the big screen.
+
+Beyond entertainment, computer graphics finds applications in fields like architecture, engineering, medicine, and scientific visualization. Architects use CG to create realistic 3D models of buildings and environments, allowing clients to visualize their future spaces. Engineers employ CG to simulate complex systems and processes, aiding in product design and testing. In medicine, CG is utilized for anatomical visualizations and surgical simulations, providing valuable insights to healthcare professionals.
+
+The advancements in computer graphics technology over the years have been nothing short of remarkable. From early wireframe models and flat-shaded objects to the highly detailed and photorealistic imagery we see today, the progress has been astounding. With the rise of real-time rendering and virtual reality, computer graphics continues to push the boundaries of what is visually achievable and offers endless possibilities for creativity and innovation.
+
+For aspiring computer graphics enthusiasts, there are numerous resources available to learn and master this exciting field. From books and online courses to open-source software and interactive platforms, individuals can delve into various aspects of CG, whether they are interested in programming shaders, developing rendering algorithms, or creating visually stunning scenes.
+
+Computer graphics, as a dynamic and evolving discipline, promises to remain at the forefront of technological advancements, shaping the way we perceive and interact with the digital world around us. Whether you're an artist, a programmer, or a curious learner, exploring the realm of computer graphics can open up a world of creativity and discovery.
+
+###How to get started?
+Here's a more detailed breakdown of the essential steps to start your exploration of computer graphics:
+
+Programming Fundamentals: Computer graphics heavily relies on programming to manipulate and generate images. If you're new to programming, start by learning the basics of a programming language, such as Python or JavaScript, to familiarize yourself with fundamental concepts like variables, loops, and functions.
+
+C/C++ Proficiency: While various programming languages can be used in computer graphics, C/C++ is widely used in this field due to its performance and compatibility with graphics APIs like OpenGL and DirectX. Familiarizing yourself with C/C++ will open up many opportunities to delve into graphics programming.
+
+Mathematics for Computer Graphics: Mathematics plays a crucial role in computer graphics, particularly linear algebra and geometry. Linear algebra helps in transforming objects and understanding vector operations, while geometry is essential for modeling and rendering 3D objects. Focus on concepts like vectors, matrices, transformations, and coordinate systems.
+
+Choose a Math-Focused Book: In the provided list, you'll find books specifically dedicated to teaching the math fundamentals needed for computer graphics. Pick one of these books, such as "3D Math Primer for Graphics and Game Development" by Fletcher Dunn, and work through it diligently. Doing so will provide a solid understanding of the math concepts applicable to graphics programming.
+
+Practice and Apply: As you progress through the math book, don't forget to apply the knowledge practically. Experiment with simple geometric transformations and rendering techniques using C/C++ and a graphics API like OpenGL. Hands-on practice will reinforce your learning and help you see the direct application of the math concepts.
+
+Expand Your Knowledge: As you become more comfortable with the basics, consider exploring more advanced topics in computer graphics, such as shading models, lighting techniques, and rendering algorithms. Books like "Real-Time Rendering" by Tomas Akenine-Moller can be valuable resources for delving deeper into these topics.
+
+Engage with the Community: Join online forums, communities, and social media groups dedicated to computer graphics. Engaging with like-minded individuals can offer support, advice, and inspiration on your learning journey. Websites like Stack Overflow, Reddit's r/GraphicsProgramming, and graphics-related Discord servers are excellent places to connect with others in the field.
+
+Learn from Projects and Code: Study and dissect open-source graphics projects and repositories like PBRT, Tinyrenderer, and ShaderToy. Analyzing code written by experienced developers can provide insights into different rendering techniques and help you improve your own coding skills.
+
+Stay Curious and Experiment: Computer graphics is a dynamic and evolving field with constant advancements. Stay curious, read research papers, watch conference presentations, and experiment with new ideas and techniques. The journey of learning in computer graphics is never-ending, and embracing a curious mindset will keep you engaged and inspired.
+
+Remember, the key to learning computer graphics is perseverance and continuous exploration. The combination of programming skills, solid math knowledge, and a willingness to experiment will empower you to create stunning visual experiences and embark on a fulfilling career in the field of computer graphics.
+
+###Exploring advanced topics
+Once you have established a solid foundation in programming and mathematics for computer graphics, you can begin to explore more practical and advanced aspects of the field. This exploration will allow you to apply your theoretical knowledge to real-world scenarios, gaining valuable hands-on experience in various areas. Here's how you can delve deeper into advanced topics:
+
+Undertake Practical Projects: Engaging in practical projects is a great way to deepen your understanding of computer graphics. Implementing rendering techniques like path tracers, photon mapping, or ray tracing will challenge you to put your skills into action. Through these projects, you'll gain insights into the complexities of realistic image rendering and discover optimizations to improve efficiency.
+
+Study Realistic Rendering Techniques: Dive into advanced rendering techniques used in industries such as film, visual effects, and video games. Learning about global illumination, subsurface scattering, and physically-based materials will elevate your ability to create more realistic and visually captivating graphics.
+
+GPU Programming and Optimization: Familiarize yourself with GPU programming techniques and learn to harness the power of modern graphics hardware. Optimization is vital for achieving real-time rendering and interactive graphics, so understanding how to leverage the capabilities of GPUs effectively is essential.
+
+Experiment with Shader Programming: Shaders play a crucial role in computer graphics, defining how objects are rendered and visual effects are achieved. By experimenting with different types of shaders, such as vertex, fragment, and geometry shaders, you'll gain practical experience in crafting stunning visual effects.
+
+Study Ray Tracing Books and Implementations: Deepen your knowledge by studying specialized books on ray tracing, like "Physically Based Rendering: From Theory to Implementation" and "Realistic Image Synthesis Using Photon Mapping." These books provide comprehensive insights into the theory and practice of ray tracing, and you can complement your learning by exploring available implementations.
+
+Participate in Graphics Communities: Engage with the computer graphics community through online forums, social media groups, and conferences. Sharing ideas, discussing challenges, and seeking feedback from peers can enhance your understanding and inspire new creative approaches.
+
+Keep Up with Industry Trends: The field of computer graphics is continually evolving, with new techniques and technologies emerging regularly. Stay updated on the latest advancements by reading research papers, attending conferences, and following graphics-focused blogs and websites.
+
+By actively exploring advanced topics in computer graphics, you'll continue to refine your skills, push the boundaries of your creativity, and develop a deeper appreciation for the art and science of generating stunning visual experiences.
+
+### Books
+
+"Computer Graphics: Principles and Practice" by James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes: A classic and comprehensive book that covers all aspects of computer graphics, from fundamental principles to advanced techniques.
+
+"OpenGL Programming Guide: The Official Guide to Learning OpenGL" by Dave Shreiner, Graham Sellers, John M. Kessenich, Bill M. Licea-Kane: An authoritative guide to learning OpenGL, one of the most widely used graphics APIs.
+
+"WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL" by Kouichi Matsuda and Rodger Lea: A practical guide to WebGL, a JavaScript API for rendering interactive 3D graphics in web browsers.
+
+"Computer Graphics Using OpenGL" by F.S. Hill Jr.: A comprehensive textbook that teaches computer graphics concepts using OpenGL as the primary rendering API.
+
+"Digital Image Processing" by Rafael C. Gonzalez and Richard E. Woods: Although not exclusively focused on computer graphics, this book provides a solid foundation in digital image processing, a critical aspect of computer graphics.
+
+"Game Engine Architecture" by Jason Gregory: While centered around game engines, this book covers important graphics-related topics such as rendering, physics, and animation in the context of game development.
+
+"Computer Graphics: A Programming Approach" by Steven Harrington: A hands-on approach to learning computer graphics through programming examples and exercises.
+
+"GPU Gems: Programming Techniques, Tips, and Tricks for Real-Time Graphics" edited by Randima Fernando: A collection of articles written by graphics professionals, exploring advanced GPU programming techniques and rendering algorithms.
+
+"OpenGL SuperBible: Comprehensive Tutorial and Reference" by Graham Sellers, Richard S. Wright Jr., Nicholas Haemel: An extensive resource covering OpenGL and its application in modern graphics programming.
+
+"Texturing & Modeling: A Procedural Approach" by David S. Ebert, Kent G. Ganev, Xavier Ochoa, and F. Kenton Musgrave: Focusing on texturing and procedural modeling, this book provides insight into creating realistic textures and models.
+
+"Physically Based Rendering: From Theory to Implementation" by Matt Pharr, Wenzel Jakob, and Greg Humphreys: A comprehensive guide on physically based rendering, which emphasizes photorealism and accuracy in image synthesis.
+
+"Interactive Computer Graphics: A Top-Down Approach with WebGL" by Edward Angel and Dave Shreiner: A hands-on introduction to computer graphics using WebGL, with an emphasis on interactive applications
+
+[Real-Time Rendering by Tomas Akenine-Moller]((https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003/ref=sr_1_1?s=books&ie=UTF8&qid=1540516813&sr=1-1&dpID=51iw1UWKNhL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)): An excellent resource for high-performance graphical applications, offering detailed explanations and numerous illustrative examples.
+
+Ray Tracing in One Weekend by Peter Shirley: A concise and free book that guides you in implementing a basic ray tracer in C++, enabling you to generate stunning images quickly.
+
+Ray Tracing: The Next Week by Peter Shirley: Builds upon the first book's project, introducing additional effects like textures and motion blur.
+
+Ray Tracing: The Rest of Your Life by Peter Shirley: The final book in the series, exploring more advanced mathematical concepts necessary for building complex and complete renderers.
+
+Physically Based Rendering: From Theory to Implementation by Matt Pharr: A comprehensive guide on creating a ray tracer for rendering realistic images, providing a solid theoretical understanding alongside practical code examples. It also offers a free online version!
+
+3D Math Primer for Graphics and Game Development by Fletcher Dunn: This book focuses on the math necessary for game development.
+
+Fundamentals of Computer Graphics by Steve Marschner: An introduction to essential graphics concepts.
+
+Ray Tracing from the Ground Up by Kevin Suffern: This book takes you through the process of implementing a ray tracer, starting with a basic project and introducing new concepts with each chapter.
+
+Advanced Global Illumination by Philip Dutre: Focused on the fundamentals of understanding realistic image synthesis, including light transport.
+
+Realistic Image Synthesis Using Photon Mapping by Henrik Jensen: Teaches the math and algorithms required to implement photon mapping rendering processes, and even includes a complete C++ implementation of the technique.
+
+The Book of Shaders by Patricio Gonzalez and Jen Lowe: An online book that provides practical teachings on GLSL fragment shaders, replete with editable code examples showcasing how they function.
+
+###Tools
+DirectX: A collection of APIs developed by Microsoft, commonly used for graphics and multimedia applications on Windows platforms. It includes Direct3D, which is similar to OpenGL in functionality.
+
+Unity: A widely-used game engine that provides powerful graphics rendering capabilities, making it a popular choice for game development and interactive 3D applications.
+
+Unreal Engine: Another popular game engine known for its high-quality graphics rendering, real-time visualization, and extensive toolset.
+
+Blender: An open-source 3D modeling and animation software that also includes rendering capabilities. It is widely used for creating 3D graphics, animations, and visual effects.
+
+Maya: A 3D computer graphics software developed by Autodesk, commonly used in film and TV production for modeling, animation, and rendering.
+
+3ds Max: Another software by Autodesk, focused on 3D modeling, rendering, and animation, commonly used in architecture, product design, and visual effects.
+
+Substance Painter: A texture painting software that allows artists to create realistic textures and materials for 3D models, making it a popular tool for game development and CGI.
+
+Houdini: A powerful 3D animation and VFX software known for its procedural workflow and advanced simulation capabilities.
+
+RenderMan: A high-quality rendering software developed by Pixar, widely used in the film industry for generating photorealistic images.
+
+Arnold: A ray tracing renderer developed by Solid Angle and used in various 3D applications, particularly in the film and animation industry.
+
+Mental Ray: Another popular rendering engine used for generating high-quality images and widely integrated into various 3D software applications.
+
+Substance Designer: A node-based texturing tool that allows artists to create procedural textures and materials for 3D assets.
+
+ZBrush: A digital sculpting software that enables artists to create detailed and intricate 3D models, commonly used in character and creature design.
+
+Mari: A 3D painting tool used in film and game production for creating high-quality textures on complex 3D models.
+
+KeyShot: A real-time rendering software that provides quick and easy visualization of 3D models with stunning visual effects.
+
+OpenGL: One of the most popular graphics APIs, widely used for rendering graphics.
+
+Vulkan: Created by the same team behind OpenGL, Vulkan is designed to provide better performance than its predecessor.
+
+Bonzomatic: A live-coding editor for OpenGL pixel shaders, where you can see the results in the background as you edit the code.
+
+###Courses
+"Computer Graphics Specialization" by University of California, San Diego: A series of courses offered on Coursera that cover a wide range of computer graphics topics, from 3D modeling to rendering techniques.
+
+"Interactive Computer Graphics" by Edward Angel, Dave Shreiner, and Vicki Shreiner: A course available on edX that provides a comprehensive introduction to computer graphics and interactive visualizations.
+
+"Computer Graphics and Digital Image Processing" by Indian Institute of Technology Kanpur: A course offered on NPTEL that covers fundamental concepts of computer graphics and digital image processing.
+
+"Introduction to Computer Graphics" by Northwestern University: A course available on Coursera that provides an introduction to the principles of computer graphics and 3D rendering.
+
+"Game Design and Development: Video Game Character Design" by Rochester Institute of Technology: A course on edX that focuses on character design and animation for video games, incorporating computer graphics techniques.
+
+"Introduction to Computer Graphics" by Trinity College Dublin: A course available on FutureLearn that explores the principles of computer graphics and 3D modeling.
+
+"Real-Time 3D Graphics with WebGL 2" by Interactive Computer Graphics (IN4MATX 151): A course offered by the University of California, Irvine, focusing on real-time graphics programming using WebGL 2.
+
+"Computer Graphics with OpenGL" by Karlsruhe Institute of Technology: A course on edX that provides an in-depth look at computer graphics principles and programming with OpenGL.
+
+"Introduction to Game Development" by Michigan State University: A course on Coursera that covers various aspects of game development, including computer graphics for game design.
+
+"Computer Graphics for Artists" by California Institute of the Arts (CalArts): A course on Coursera that introduces artists to the concepts and tools of computer graphics for creative expression.
+
+"Foundations of Computer Graphics" by New York University Tandon School of Engineering: A course on Udacity that explores the mathematical foundations of computer graphics.
+
+"Advanced Computer Graphics" by ETH Zurich: A course available on edX that delves into advanced topics in computer graphics, including rendering algorithms and shading techniques.
+
+Computer Graphics - San Diego by Ravi Ramamoorthi: This course focuses on teaching the necessary math to program an offline ray tracer.
+
+SIGGRAPH University: A playlist featuring popular courses from the annual SIGGRAPH Conference.
+
+Computer Graphics & Imaging - Berkeley by Ren Ng (Spring 2018): A course at Berkeley covering computer graphics and imaging topics.
+
+###Websites
+Graphics Programming Weekly: A website that provides weekly updates on graphics programming, including tutorials, articles, and news about the latest advancements in the field.
+
+Khronos Group: The official website for the Khronos Group, an organization responsible for developing and maintaining various graphics and multimedia standards, including OpenGL, Vulkan, and WebGL.
+
+GPUOpen: An initiative by AMD that offers open-source graphics and compute libraries, tools, and resources for GPU programming and optimization.
+
+NVIDIA Developer: NVIDIA's official website for developers, offering resources, tools, and tutorials on GPU programming, graphics, and game development.
+
+Interactive 3D Graphics and Games: A website by David H. Eberly, providing a wealth of resources and tutorials on 3D graphics, game development, and physics-based simulations.
+
+Graphics Gems: A collection of code snippets and algorithms contributed by various graphics professionals, providing practical solutions to common graphics-related problems.
+
+ShaderX: A series of books edited by Wolfgang Engel, featuring articles and code examples on advanced rendering techniques and shader programming.
+
+GPU Gems: Another series of books, published by NVIDIA, that covers advanced rendering techniques and GPU programming tips for real-time graphics.
+
+The SIGGRAPH Papers: The official repository of papers presented at the annual SIGGRAPH conference, covering the latest research and advancements in computer graphics and interactive techniques.
+
+Ke-Sen Huang's Papers: A curated collection of papers in computer graphics and related fields, conveniently organized and accessible for research and study.
+
+PBR Guide: A website that provides resources and examples related to Physically Based Rendering (PBR) techniques, helping artists and developers create realistic materials and lighting in 3D scenes.
+
+GPU Zen: A book series edited by Wolfgang Engel that focuses on GPU programming techniques and optimization strategies for various graphics applications.
+
+ScratchAPixel: Offers tutorials on image rendering from basic to advanced levels.
+
+Learn OpenGL: A resource site with tutorials, code examples, and a downloadable PDF version.
+
+OpenGL Tutorial: A tutorial dedicated to learning OpenGL 3.3 or higher.
+
+Learn Vulkan: A platform for learning the modern API created by the same team behind OpenGL.
+
+Shader Toy: A site that allows you to create, visualize, and share GLSL shaders.
+
+Real-Time Rendering Recommended Books: A list of recommended books on the Real-Time Rendering website.
+
+Jendrik Illner's Blog: A 3D programmer at Ubisoft, Jendrik posts weekly summaries of articles about 3D graphics, including shader tutorials and real-time rendering papers.
+
+Ray Tracey's Blog: Sam Lapere's blog, the leader of the scientific team at EPFL Blue Brain Project, featuring many posts about real-time rendering.
+
+Inigo Quilez's Site: Provides articles and shader demos from the co-creator of Shadertoy.
+
+###Projects/Repositories
+Blender: An open-source 3D modeling and animation software that also includes rendering capabilities. Its repository provides access to the source code and development resources.
+
+Godot Engine: An open-source game engine with a focus on 2D and 3D game development. The repository contains the engine's source code and development tools.
+
+OpenCV: An open-source computer vision library that includes image processing and computer vision algorithms. The repository offers the source code and resources for contributing to the project.
+
+Three.js: A JavaScript library for creating 3D graphics and interactive web applications. The repository contains the library's source code and examples.
+
+Cycles Renderer: A ray-tracing rendering engine integrated into Blender. Its repository provides access to the source code and development resources.
+
+OpenCL: An open standard for parallel programming of heterogeneous systems, including GPUs and CPUs. The repository offers the specification and implementations of the OpenCL standard.
+
+GLM: A C++ mathematics library for graphics programming, providing support for vectors, matrices, and other geometric operations. The repository contains the library's source code and documentation.
+
+Magnum: An open-source C++11/C++14 graphics middleware for games and data visualization. The repository provides access to the source code and examples.
+
+RenderDoc: An open-source graphics debugging tool that allows developers to capture and analyze frames of a 3D application. The repository contains the source code and development tools.
+
+Gaffer: An open-source node-based application framework for building and executing computer graphics workflows. The repository provides access to the source code and examples.
+
+Vulkan Tutorial: An in-depth tutorial on learning the Vulkan API for graphics and compute applications. The repository contains code examples and resources for learning Vulkan.
+
+Marmoset Toolbag: A real-time rendering and material authoring tool used in game development and digital art. The repository provides access to the tool's source code and development resources.
+
+PBRT: Source code for PBRT, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation."
+
+Tinyrenderer: A computer graphics course teaching how OpenGL and rendering work, guiding you in building a simplified version of OpenGL.
+
+Ray Tracing in One Weekend Repository: Ray tracer code based on the book "Ray Tracing in One Weekend."
+
+Fragmentarium: A program for editing and visualizing GLSL shaders, with a focus on fractals and generative systems.
+
+Business Card Ray Tracer: A very small ray tracer, consisting of only 35 lines (minified) and a file size of 1377 bytes.
+
+Small PT: A path tracer implemented in 99 lines of C++.
+
+Marble Marcher: A game where you navigate a marble through fractal stages as quickly as possible to reach the goal, using ray marching for visually stunning effects.
+
+3D Game Shaders for Beginners: A step-by-step guide on implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+
+###Miscellaneous
+GDC Vault: The Game Developers Conference (GDC) Vault provides access to a vast collection of video presentations, lectures, and talks on various topics related to game development, including computer graphics.
+
+Graphics Programming Black Book: A series of books by Michael Abrash that delves into graphics programming and optimization techniques for PC and console platforms.
+
+Graphics Gems Series: A collection of books edited by Andrew S. Glassner, containing practical tips, tricks, and algorithms contributed by graphics professionals.
+
+Ray Tracing Gems: A book edited by Eric Haines and Tomas Akenine-Möller, featuring tips, tricks, and techniques for real-time ray tracing.
+
+The Cherno: A YouTube channel run by Yan Chernikov, providing tutorials on game development, graphics programming, and various other programming topics.
+
+ThinMatrix: A YouTube channel by Karl-Erik Tanner, offering tutorials on graphics programming, OpenGL, and game development.
+
+Keijiro Takahashi's GitHub: A repository by Keijiro Takahashi, containing various Unity projects and assets, including graphics-related experiments and visual effects.
+
+Shadertoy Gallery: A collection of shaders created by the community on ShaderToy, showcasing impressive and artistic visual effects achieved with GLSL shaders.
+
+Interactive Shader Format (ISF): An open standard for sharing, exchanging, and using interactive shaders across different platforms and applications.
+
+Computer Graphics Stack Exchange: A Q&A community for computer graphics enthusiasts, developers, and researchers to ask and answer questions related to the field.
+
+The Graphics Codex: A website that provides explanations, algorithms, and code snippets for various graphics-related topics.
+
+OpenGameArt: A resource website for free and open-source game art assets, including textures, 3D models, and sprites, which can be used in graphics projects.
+
+Hacker News Thread on Learning Computer Graphics: A discussion thread on how to learn computer graphics, with a summarized comment for those short on time.
+
+Computer Color is Broken: A video about how color representation and compression in computers can distort the blur effect.
+
+The Art of Code Channel: Tutorials on shaders using ShaderToy, predominantly focused on procedural generation
