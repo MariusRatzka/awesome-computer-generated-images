@@ -27,7 +27,7 @@ This is an up to date collection for the year 2023.
  * **[Youtube Tutorials](#youtube-tutorials)**
  * **[Books](#books)** 
  * **[Tools](#tools)**
- * **[Courses](#courses)**
+ * **[Courses WIP](#courses)**
  * **[Websites](#websites)**
  * **[Paper](#paper)**
 
@@ -35,7 +35,7 @@ This is an up to date collection for the year 2023.
 
  <br>
 
-### What exactly is computer graphics?
+## What exactly is computer graphics?
 Computer graphics encompasses a captivating and multifaceted domain that revolves around the generation, manipulation, and rendering of visual content through computational means. Its scope spans from rudimentary 2D images to intricate 3D models, finding wide-ranging applications across diverse industries and technologies.
 
 At its core, computer graphics harnesses computational power to produce visual representations of data, comprising geometric attributes of objects, textures for surface details, lighting conditions to emulate real-world illumination, and other essential elements crucial for immersive visual experiences. Rendering, a fundamental facet of computer graphics, entails transforming raw data into images suitable for display on screens or reproduction on print media. This process entails simulating light interactions with objects, materials, and environments to engender realistic or stylized imagery.
@@ -45,10 +45,11 @@ The term "CG," often utilized as an abbreviation for "computer graphics," has be
 The profound technological strides witnessed in computer graphics have been remarkable. From rudimentary wireframe models to contemporary photorealistic imagery, advancements have been astounding. Real-time rendering and virtual reality have extended the possibilities for creativity and innovation. Aspiring enthusiasts can access diverse resources, encompassing books, online courses, open-source software, and interactive platforms, to acquire proficiency in various aspects of CG, be it shader programming, rendering algorithms, or scene composition.
 
 Dynamic and continually evolving, computer graphics remains at the vanguard of technological progress, reshaping our perception and interaction with the digital realm. Artists, programmers, and inquisitive learners alike can embark on a journey of creativity and exploration within the realm of computer graphics.
+
 <br><br>
 
 
-### How to get started?
+## How to get started?
 #### The deep dive:
 To begin, grasp the fundamentals of programming, which are fundamental for manipulating and generating images. Delve into a programming language like Python or JavaScript to acquaint yourself with variables, loops, and functions – crucial building blocks for your journey.
 
@@ -75,7 +76,7 @@ Grab your favourite drink and watch some youtube tutorials or read a book and ge
 
 <br><br>
 
-### Exploring advanced topics
+## Exploring advanced topics
 
 Once you have established a solid foundation in programming and mathematics for computer graphics, you can begin to explore more practical and advanced aspects of the field. This exploration will allow you to apply your theoretical knowledge to real-world scenarios, gaining valuable hands-on experience in various areas. Here's how you can delve deeper into advanced topics:
 
@@ -97,7 +98,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 <br><br>
 
-### Youtube Tutorials
+## Youtube Tutorials
 
 [The Cherno](https://www.youtube.com/@thecherno): A YouTube channel run by Yan Chernikov, providing tutorials on game development, graphics programming, and various other programming topics.
 
@@ -113,7 +114,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 <br><br>
 
-### Books
+## Books
 
 ["Foundations of 3D Computer Graphics"](https://mitpress.mit.edu/9780262017350/foundations-of-3d-computer-graphics/) by Steven J. Gortler is Robert I. Goldman Professor of Computer Science at Harvard University: An introduction to the basic concepts of 3D computer graphics that offers a careful mathematical exposition within a modern computer graphics application programming interface.
 
@@ -166,7 +167,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 <br><br>
 
 
-### Tools
+## Tools
 
 [DirectX](https://support.microsoft.com/de-de/topic/installieren-der-neuesten-version-von-directx-d1f5ffa5-dae2-246c-91b1-ee1e973ed8c2): A collection of APIs developed by Microsoft, commonly used for graphics and multimedia applications on Windows platforms. It includes Direct3D, which is similar to OpenGL in functionality.
 
@@ -215,7 +216,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 <br><br>
 
-### Courses  (Work in Progress)
+## Courses  (Work in Progress)
 
 ["Computer Graphics Specialization"]() by University of California, San Diego: A series of courses offered on Coursera that cover a wide range of computer graphics topics, from 3D modeling to rendering techniques.
 
@@ -249,7 +250,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 <br><br>
 
-### Websites
+## Websites
 
 ["Graphics Programming Weekly"](https://www.jendrikillner.com/article_database/): A website that provides weekly updates on graphics programming, including tutorials, articles, and news about the latest advancements in the field.
 
@@ -281,7 +282,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 <br><br>
 
-### Projects/Repositories
+## Projects/Repositories
 
 [Blender](https://github.com/blender): An open-source 3D modeling and animation software that also includes rendering capabilities. Its repository provides access to the source code and development resources.
 
@@ -325,7 +326,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 <br><br>
 
-### Paper
+## Paper
 
 ["Ke-Sen Huang's Papers"](https://kesen.realtimerendering.com/): A curated collection of papers in computer graphics and related fields, conveniently organized and accessible for research and study.
 
@@ -334,7 +335,7 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 <br><br>
 
-### Miscellaneous
+## Miscellaneous
 
 [GDC Vault](https://www.gdcvault.com/): The Game Developers Conference (GDC) Vault provides access to a vast collection of video presentations, lectures, and talks on various topics related to game development, including computer graphics.
 
