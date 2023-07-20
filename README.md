@@ -138,43 +138,51 @@ By actively exploring advanced topics in computer graphics, you'll continue to r
 
 ### Tools
 
-*[DirectX](): A collection of APIs developed by Microsoft, commonly used for graphics and multimedia applications on Windows platforms. It includes Direct3D, which is similar to OpenGL in functionality.
+*[DirectX](https://support.microsoft.com/de-de/topic/installieren-der-neuesten-version-von-directx-d1f5ffa5-dae2-246c-91b1-ee1e973ed8c2): A collection of APIs developed by Microsoft, commonly used for graphics and multimedia applications on Windows platforms. It includes Direct3D, which is similar to OpenGL in functionality.
 
-*[Unity](): A widely-used game engine that provides powerful graphics rendering capabilities, making it a popular choice for game development and interactive 3D applications.
+*[Unity](https://unity.com/de): A widely-used game engine that provides powerful graphics rendering capabilities, making it a popular choice for game development and interactive 3D applications.
 
-*[Unreal Engine](): Another popular game engine known for its high-quality graphics rendering, real-time visualization, and extensive toolset.
+*[Unreal Engine](https://www.unrealengine.com/): Another popular game engine known for its high-quality graphics rendering, real-time visualization, and extensive toolset.
 
-*[Blender](): An open-source 3D modeling and animation software that also includes rendering capabilities. It is widely used for creating 3D graphics, animations, and visual effects.
+*[Blender](https://www.blender.org/): An open-source 3D modeling and animation software that also includes rendering capabilities. It is widely used for creating 3D graphics, animations, and visual effects.
 
-*[Maya](): A 3D computer graphics software developed by Autodesk, commonly used in film and TV production for modeling, animation, and rendering.
+*[Maya](https://www.autodesk.de/products/maya/): A 3D computer graphics software developed by Autodesk, commonly used in film and TV production for modeling, animation, and rendering.
 
-*[3ds Max](): Another software by Autodesk, focused on 3D modeling, rendering, and animation, commonly used in architecture, product design, and visual effects.
+*[3ds Max](https://www.autodesk.de/products/3ds-max/overview?term=1-YEAR&tab=subscription): Another software by Autodesk, focused on 3D modeling, rendering, and animation, commonly used in architecture, product design, and visual effects.
 
-*[Substance Painter](): A texture painting software that allows artists to create realistic textures and materials for 3D models, making it a popular tool for game development and CGI.
+*[Substance Painter](https://www.adobe.com/products/substance3d-painter.html): A texture painting software that allows artists to create realistic textures and materials for 3D models, making it a popular tool for game development and CGI.
+*[Substance Painter](https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/): Perpetual license without Creative Cloud from Adobe!
 
-*[Houdini](): A powerful 3D animation and VFX software known for its procedural workflow and advanced simulation capabilities.
+*[Substance Designer](https://www.adobe.com/products/substance3d-designer.html): A node-based texturing tool that allows artists to create procedural textures and materials for 3D assets.
+*[Substance Designer](https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/): Perpetual license without Creative Cloud from Adobe!
 
-*[RenderMan](): A high-quality rendering software developed by Pixar, widely used in the film industry for generating photorealistic images.
+*[Substance Sampler](https://www.adobe.com/products/substance3d-sampler.html): Transform real-life pictures into photorealistic materials, 3D objects, and HDR environments.
+*[Substance Sampler](https://store.steampowered.com/app/2200000/Substance_3D_Sampler_2023/): Perpetual license without Creative Cloud from Adobe!
 
-*[Arnold](): A ray tracing renderer developed by Solid Angle and used in various 3D applications, particularly in the film and animation industry.
+*[Houdini](https://www.sidefx.com/products/houdini/): A powerful 3D animation and VFX software known for its procedural workflow and advanced simulation capabilities.
 
-*[Mental Ray](): Another popular rendering engine used for generating high-quality images and widely integrated into various 3D software applications.
+*[RenderMan](https://renderman.pixar.com/): A high-quality rendering software developed by Pixar, widely used in the film industry for generating photorealistic images.
 
-*[Substance Designer](): A node-based texturing tool that allows artists to create procedural textures and materials for 3D assets.
+*[Arnold](https://arnoldrenderer.com/): A ray tracing renderer developed by Solid Angle and used in various 3D applications, particularly in the film and animation industry.
 
-*[ZBrush](): A digital sculpting software that enables artists to create detailed and intricate 3D models, commonly used in character and creature design.
+*[Mental Ray](https://www.autodesk.com/products/mental-ray-standalone/overview): Another popular rendering engine used for generating high-quality images and widely integrated into various 3D software applications.
 
-*[Mari](): A 3D painting tool used in film and game production for creating high-quality textures on complex 3D models.
+*[ZBrush](https://www.maxon.net/en/zbrush): A digital sculpting software that enables artists to create detailed and intricate 3D models, commonly used in character and creature design.
 
-*[KeyShot](): A real-time rendering software that provides quick and easy visualization of 3D models with stunning visual effects.
+*[Mari](https://www.foundry.com/products/mari): A 3D painting tool used in film and game production for creating high-quality textures on complex 3D models.
 
-*[OpenGL](): One of the most popular graphics APIs, widely used for rendering graphics.
+*[KeyShot](https://www.keyshot.com/de/): A real-time rendering software that provides quick and easy visualization of 3D models with stunning visual effects.
 
-*[Vulkan](): Created by the same team behind OpenGL, Vulkan is designed to provide better performance than its predecessor.
+*[OpenGL](https://www.opengl.org/): One of the most popular graphics APIs, widely used for rendering graphics.
 
-*[Bonzomatic](): A live-coding editor for OpenGL pixel shaders, where you can see the results in the background as you edit the code.
+*[Vulkan](https://www.vulkan.org/): Created by the same team behind OpenGL, Vulkan is designed to provide better performance than its predecessor.
 
-*[ArmorTools](): An open-source alternative to substance painter/designer
+*[Bonzomatic](https://github.com/Gargaj/Bonzomatic): A live-coding editor for OpenGL pixel shaders, where you can see the results in the background as you edit the code.
+
+*[ArmorTools](https://github.com/armory3d/armortools): An open-source alternative to substance painter/designer
+
+*[Natron](https://natrongithub.github.io/): An powerful open-source Digital Compositor
+
 
 
 ### Courses
