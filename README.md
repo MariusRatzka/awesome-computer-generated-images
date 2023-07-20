@@ -220,7 +220,7 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 ## Courses  (Work in Progress)
 
-<b>FREE! </b>[The University of California, San Diego: Computer Graphics](https://www.edx.org/learn/computer-graphics) by Ravi Ramamoorthi, Professor at UC San Diego. Students will learn to create computer-generated images of 3D scenes, including flybys of objects, make a real-time scene viewer, and create very realistic images with raytracing. <br><b>Duration: 6 weeks(6–12 hours per week)</b>
+<b>FREE! </b>[The University of California, San Diego: Computer Graphics](https://www.edx.org/course/computer-graphics-2?index=product&objectID=course-f6bc9b9c-e03f-4cde-b09d-bddd82dca299&webview=false&campaign=Computer+Graphics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) by Ravi Ramamoorthi, Professor at UC San Diego. Students will learn to create computer-generated images of 3D scenes, including flybys of objects, make a real-time scene viewer, and create very realistic images with raytracing. <br><b>Duration: 6 weeks(6–12 hours per week)</b>
 <br>
 
 [Design & implement interactive VR software apps](https://www.edx.org/professional-certificate/ucsandiegox-virtual-reality-app-development?index=product&objectID=program-f5448140-88fc-451c-82cf-976504bdfa8d&webview=false&campaign=Virtual+Reality+%28VR%29+App+Development&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) held by instructors from The University of California, San Diego
