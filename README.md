@@ -101,11 +101,13 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 ## Youtube Tutorials
 
+[The Coding Train ](https://www.youtube.com/@TheCodingTrain): The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more.
+
 [The Cherno](https://www.youtube.com/@thecherno): A YouTube channel run by Yan Chernikov, providing tutorials on game development, graphics programming, and various other programming topics.
 
 [ThinMatrix](https://www.youtube.com/channel/UCUkRj4qoT1bsWpE_C8lZYoQ): A YouTube channel by Karl-Erik Tanner, offering tutorials on graphics programming, OpenGL, and game development.
 
-[TheBennyBoy](https://www.youtube.com/@thebennybox/about) This youtube channel was my personal beginning of programming in OpenGL. Very informative and sympathic Youtube Channel.
+[TheBennyBox](https://www.youtube.com/@thebennybox/about) This youtube channel was my personal beginning of programming in OpenGL. Very informative and sympathic Youtube Channel.
 
 [The Art of Code Channel](https://www.youtube.com/@TheArtofCodeIsCool): Tutorials on shaders using ShaderToy, predominantly focused on procedural generation. Very deep knowledge about image processing!
 
@@ -219,9 +221,13 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 
 ## Courses  
-<b>(Work in Progress)</b>
 <br><br>
-<b>FREE! </b>[The University of California, San Diego: Computer Graphics](https://www.edx.org/course/computer-graphics-2?index=product&objectID=course-f6bc9b9c-e03f-4cde-b09d-bddd82dca299&webview=false&campaign=Computer+Graphics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) by Ravi Ramamoorthi, Professor at UC San Diego. Students will learn to create computer-generated images of 3D scenes, including flybys of objects, make a real-time scene viewer, and create very realistic images with raytracing. <br><b>Duration: 6 weeks(6–12 hours per week)</b>
+<b>FREE! Starts Jul 21 </b>[The University of California, San Diego: Computer Graphics](https://www.edx.org/course/computer-graphics-2?index=product&objectID=course-f6bc9b9c-e03f-4cde-b09d-bddd82dca299&webview=false&campaign=Computer+Graphics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) by Ravi Ramamoorthi, Professor at UC San Diego. Students will learn to create computer-generated images of 3D scenes, including flybys of objects, make a real-time scene viewer, and create very realistic images with raytracing. <br><b>Duration: 6 weeks(6–12 hours per week)</b>
+<br>
+
+<b>FREE! Starts Jul 20 </b>[Hollywood: History, Industry, Art](https://www.edx.org/course/hollywood-history-industry-art?index=product&objectID=course-f1a02084-6bf9-4242-bfdf-d6be7dc81501&webview=false&campaign=Hollywood%3A+History%2C+Industry%2C+Art&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) Instructed by Peter Decherney
+,Professor of Cinema Studies and English at the University of Pennsylvania. In this course you will learn about Hollywood and how it came to be the global powerhouse of today.
+ <br><b>Duration: 4 weeks (3–4 hours per week)</b>
 <br>
 
 [Design & implement interactive VR software apps](https://www.edx.org/professional-certificate/ucsandiegox-virtual-reality-app-development?index=product&objectID=program-f5448140-88fc-451c-82cf-976504bdfa8d&webview=false&campaign=Virtual+Reality+%28VR%29+App+Development&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-graphics) held by instructors from The University of California, San Diego
@@ -240,6 +246,7 @@ As you actively explore advanced topics, your skills will improve, and your crea
  <br><b>Duration: 12 weeks( 8–10 hours per week)</b>
 <br>
 
+
 ["Computer Graphics"](https://www.udemy.com/course/computer_graphics_subject/) by Shrinath Pai. This course is designed to meet the requirement of a Diploma / UG / PG Computer Science / Application Students.
 
 ["Interactive Computer Graphics"](https://www.coursera.org/learn/interactive-computer-graphics) by Takeo Igarashi. This course will introduce various interactive tools developed in computer graphics research field with their design rationales and algorithms. 
@@ -249,6 +256,8 @@ As you actively explore advanced topics, your skills will improve, and your crea
 ["SIGGRAPH University"](https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy): A playlist featuring popular courses from the annual SIGGRAPH Conference.
 
 ["Computer Graphics & Imaging - Berkeley"](https://cs184.eecs.berkeley.edu/sp23) by Ren Ng (Spring 2018): A course at Berkeley covering computer graphics and imaging topics.
+
+
 
 <br><br>
 
