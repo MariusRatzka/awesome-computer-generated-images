@@ -172,28 +172,22 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 ## Tools
 
+### API
 [DirectX](https://support.microsoft.com/de-de/topic/installieren-der-neuesten-version-von-directx-d1f5ffa5-dae2-246c-91b1-ee1e973ed8c2): A collection of APIs developed by Microsoft, commonly used for graphics and multimedia applications on Windows platforms. It includes Direct3D, which is similar to OpenGL in functionality.
+
+[OpenGL](https://www.opengl.org/): One of the most popular graphics APIs, widely used for rendering graphics.
+
+[Vulkan](https://www.vulkan.org/): Created by the same team behind OpenGL, Vulkan is designed to provide better performance than its predecessor.
+
+<br>
+
+
+
+### Engines
 
 [Unity](https://unity.com/de): A widely-used game engine that provides powerful graphics rendering capabilities, making it a popular choice for game development and interactive 3D applications.
 
 [Unreal Engine](https://www.unrealengine.com/): Another popular game engine known for its high-quality graphics rendering, real-time visualization, and extensive toolset.
-
-[Blender](https://www.blender.org/): An open-source 3D modeling and animation software that also includes rendering capabilities. It is widely used for creating 3D graphics, animations, and visual effects.
-
-[Maya](https://www.autodesk.de/products/maya/): A 3D computer graphics software developed by Autodesk, commonly used in film and TV production for modeling, animation, and rendering.
-
-[3ds Max](https://www.autodesk.de/products/3ds-max/overview?term=1-YEAR&tab=subscription): Another software by Autodesk, focused on 3D modeling, rendering, and animation, commonly used in architecture, product design, and visual effects.
-
-[Substance Painter](https://www.adobe.com/products/substance3d-painter.html): A texture painting software that allows artists to create realistic textures and materials for 3D models, making it a popular tool for game development and CGI.<br>
-[Substance Painter](https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/): Steam Perpetual license without Creative Cloud from Adobe!
-
-[Substance Designer](https://www.adobe.com/products/substance3d-designer.html): A node-based texturing tool that allows artists to create procedural textures and materials for 3D assets.<br>
-[Substance Designer](https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/): Steam Perpetual license without Creative Cloud from Adobe!
-
-[Substance Sampler](https://www.adobe.com/products/substance3d-sampler.html): Transform real-life pictures into photorealistic materials, 3D objects, and HDR environments.<br>
-[Substance Sampler](https://store.steampowered.com/app/2200000/Substance_3D_Sampler_2023/): Steam Perpetual license without Creative Cloud from Adobe!
-
-[Houdini](https://www.sidefx.com/products/houdini/): A powerful 3D animation and VFX software known for its procedural workflow and advanced simulation capabilities.
 
 [RenderMan](https://renderman.pixar.com/): A high-quality rendering software developed by Pixar, widely used in the film industry for generating photorealistic images.
 
@@ -201,21 +195,59 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 [Mental Ray](https://www.autodesk.com/products/mental-ray-standalone/overview): Another popular rendering engine used for generating high-quality images and widely integrated into various 3D software applications.
 
-[ZBrush](https://www.maxon.net/en/zbrush): A digital sculpting software that enables artists to create detailed and intricate 3D models, commonly used in character and creature design.
-
-[Mari](https://www.foundry.com/products/mari): A 3D painting tool used in film and game production for creating high-quality textures on complex 3D models.
-
 [KeyShot](https://www.keyshot.com/de/): A real-time rendering software that provides quick and easy visualization of 3D models with stunning visual effects.
 
-[OpenGL](https://www.opengl.org/): One of the most popular graphics APIs, widely used for rendering graphics.
+[O3DE](https://o3de.org/): The open source, real-time 3D engine. Replacement of Amazons Lumberyard Engine.
 
-[Vulkan](https://www.vulkan.org/): Created by the same team behind OpenGL, Vulkan is designed to provide better performance than its predecessor.
+<br>
 
-[Bonzomatic](https://github.com/Gargaj/Bonzomatic): A live-coding editor for OpenGL pixel shaders, where you can see the results in the background as you edit the code.
+### 3D Modelling
+
+[Blender](https://www.blender.org/): An open-source 3D modeling and animation software that also includes rendering capabilities. It is widely used for creating 3D graphics, animations, and visual effects.
+
+[Maya](https://www.autodesk.de/products/maya/): A 3D computer graphics software developed by Autodesk, commonly used in film and TV production for modeling, animation, and rendering.
+
+[3ds Max](https://www.autodesk.de/products/3ds-max/overview?term=1-YEAR&tab=subscription): Another software by Autodesk, focused on 3D modeling, rendering, and animation, commonly used in architecture, product design, and visual effects.
+
+[ZBrush](https://www.maxon.net/en/zbrush): A digital sculpting software that enables artists to create detailed and intricate 3D models, commonly used in character and creature design.
+
+<br>
+
+### Texturing
 
 [ArmorTools](https://github.com/armory3d/armortools): An open-source alternative to substance painter/designer
 
+[Substance Painter](https://www.adobe.com/products/substance3d-painter.html): A texture painting software that allows artists to create realistic textures and materials for 3D models, making it a popular tool for game development and CGI.<br>
+
+* [Steam Perpetual license without Creative Cloud](https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/)
+
+[Substance Designer](https://www.adobe.com/products/substance3d-designer.html): A node-based texturing tool that allows artists to create procedural textures and materials for 3D assets.<br>
+
+* [ Steam Perpetual license without Creative Cloud](https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/)
+  
+[Substance Sampler](https://www.adobe.com/products/substance3d-sampler.html): Transform real-life pictures into photorealistic materials, 3D objects, and HDR environments.<br>
+
+* [Steam Perpetual license without Creative Cloud](https://store.steampowered.com/app/2200000/Substance_3D_Sampler_2023/):
+
+[Mari](https://www.foundry.com/products/mari): A 3D painting tool used in film and game production for creating high-quality textures on complex 3D models.
+
+<br>
+
+### Compositing
+
 [Natron](https://natrongithub.github.io/): An powerful open-source Digital Compositor
+
+<br>
+
+
+### VFX Editor
+
+[Houdini](https://www.sidefx.com/products/houdini/): A powerful 3D animation and VFX software known for its procedural workflow and advanced simulation capabilities.
+
+[Bonzomatic](https://github.com/Gargaj/Bonzomatic): A live-coding editor for OpenGL pixel shaders, where you can see the results in the background as you edit the code.
+
+
+
 
 <br><br>
 
