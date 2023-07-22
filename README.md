@@ -246,6 +246,9 @@ As you actively explore advanced topics, your skills will improve, and your crea
  <br><b>Duration: 12 weeks( 8–10 hours per week)</b>
 <br>
 
+[Essentials of USD in Omniverse](https://courses.nvidia.com/courses/course-v1:DLI+S-OV-05+V1/). , by Nvidia Deep Learning Institute. You'll learn about data modeling using Prims, attributes, relationships, and custom schemas and composition for scene assembly and collaboration. 
+
+[Develop, Customize, and Publish in Omniverse With Extensions](https://courses.nvidia.com/courses/course-v1:DLI+S-OV-02+V1/) , by Nvidia Deep Learning Institute. Upon completion, you will be able to create and share your own custom Extension with the Omniverse community.
 
 ["Computer Graphics"](https://www.udemy.com/course/computer_graphics_subject/) by Shrinath Pai. This course is designed to meet the requirement of a Diploma / UG / PG Computer Science / Application Students.
 
