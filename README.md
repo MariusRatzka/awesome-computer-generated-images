@@ -182,7 +182,6 @@ As you actively explore advanced topics, your skills will improve, and your crea
 <br>
 
 
-
 #### Engines
 
 [Unity](https://unity.com/de): A widely-used game engine that provides powerful graphics rendering capabilities, making it a popular choice for game development and interactive 3D applications.
@@ -192,6 +191,8 @@ As you actively explore advanced topics, your skills will improve, and your crea
 [RenderMan](https://renderman.pixar.com/): A high-quality rendering software developed by Pixar, widely used in the film industry for generating photorealistic images.
 
 [Arnold](https://arnoldrenderer.com/): A ray tracing renderer developed by Solid Angle and used in various 3D applications, particularly in the film and animation industry.
+
+[Mantra](https://www.sidefx.com/docs/houdini/render/render.html): Mantra is the highly advanced renderer included with Houdini. It is a multi-paradigm renderer, implementing scanline, raytracing, and physically-based rendering.
 
 [Mental Ray](https://www.autodesk.com/products/mental-ray-standalone/overview): Another popular rendering engine used for generating high-quality images and widely integrated into various 3D software applications.
 
