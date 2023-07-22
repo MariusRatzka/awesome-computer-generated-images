@@ -1,6 +1,6 @@
 # awesome-computer-graphics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# The Awesome Computer Graphics List! 
+# The Awesome Computer Graphics List (Update 2023) 
 
 <img src="https://github.com/MrJanes/awesome-computer-graphics/blob/main/media/D-1a.png" align="center" width="1000">
 
