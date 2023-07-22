@@ -172,7 +172,7 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 ## Tools
 
-### API
+#### API
 [DirectX](https://support.microsoft.com/de-de/topic/installieren-der-neuesten-version-von-directx-d1f5ffa5-dae2-246c-91b1-ee1e973ed8c2): A collection of APIs developed by Microsoft, commonly used for graphics and multimedia applications on Windows platforms. It includes Direct3D, which is similar to OpenGL in functionality.
 
 [OpenGL](https://www.opengl.org/): One of the most popular graphics APIs, widely used for rendering graphics.
@@ -183,7 +183,7 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 
 
-### Engines
+#### Engines
 
 [Unity](https://unity.com/de): A widely-used game engine that provides powerful graphics rendering capabilities, making it a popular choice for game development and interactive 3D applications.
 
@@ -201,7 +201,7 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 <br>
 
-### 3D Modelling
+#### 3D Modelling
 
 [Blender](https://www.blender.org/): An open-source 3D modeling and animation software that also includes rendering capabilities. It is widely used for creating 3D graphics, animations, and visual effects.
 
@@ -213,7 +213,8 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 <br>
 
-### Texturing
+
+#### Texturing
 
 [ArmorTools](https://github.com/armory3d/armortools): An open-source alternative to substance painter/designer
 
@@ -231,16 +232,21 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 [Mari](https://www.foundry.com/products/mari): A 3D painting tool used in film and game production for creating high-quality textures on complex 3D models.
 
+[Mixer](https://quixel.com/mixer): Mixer combined with all of Megascans is set to help artists achieve revolutionary results. Texture your custom assets with multi-channel 3D painting, real-time 3D curvature, displacement sculpting, ID masking, procedural noises, seamless texture projection, Smart Materials and much more.
+
+
 <br>
 
-### Compositing
+#### Compositing
 
 [Natron](https://natrongithub.github.io/): An powerful open-source Digital Compositor
 
+[Nuke](https://www.foundry.com/products/nuke-family/nuke): Nuke is the powerful node-based compositing tool at the heart of the Nuke family. Whether your focus is on blockbusters, animation or binge-worthy episodic content, Nuke’s flexible and robust toolset empowers teams to create pixel-perfect content every time.
+
 <br>
 
 
-### VFX Editor
+#### VFX Editor
 
 [Houdini](https://www.sidefx.com/products/houdini/): A powerful 3D animation and VFX software known for its procedural workflow and advanced simulation capabilities.
 
