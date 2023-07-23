@@ -25,7 +25,7 @@ This is an up to date collection for the year 2023.
  * **[How to get started?](#how-to-get-started)**
  * **[Exploring advanced topics](#exploring-advanced-topics)**
  * **[Youtube Tutorials](#youtube-tutorials)**
- * **[Coding Adventure](#coding-adventure)**
+ * **[Coding Adventures](#coding-adventures)**
  * **[Books](#books)** 
  * **[Tools](#tools)**
  * **[Courses](#courses)**
@@ -121,12 +121,16 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 <br><br>
 
-## Coding Adventure
+## Coding Adventures
 
-[Coding Adventure: Ant and Slime Simulations](https://youtu.be/X-iSQQgOd1A): A small exploration of an algorithm inspired by ants, and some little experiments into simulating some of the behaviour of ants and slime moulds.
-* [Source code (slime):](https://github.com/SebLague/Slime-Simulation)
-* [Source code (ants):](https://github.com/SebLague/Ant-Simulation)
+[Coding Adventure: Ant and Slime Simulations](https://youtu.be/X-iSQQgOd1A): from Sebastian Lague. A small exploration of an algorithm inspired by ants, and some little experiments into simulating some of the behaviour of ants and slime moulds.
+* [Source Code (slime)](https://github.com/SebLague/Slime-Simulation)
+* [Source Code (ants)](https://github.com/SebLague/Ant-Simulation)
 
+[Coding Adventure: Ray Tracing](https://youtu.be/Qz0KTGYJtUk): Sebastian Lague tried creating a custom ray/path tracing renderer. Featuring: maths, shaders, and cats! This project was written in C# and HLSL, and uses the Unity game engine.
+* [Source Code](https://github.com/SebLague/Ray-Tracing) 
+
+  
   
 <br><br>
 
