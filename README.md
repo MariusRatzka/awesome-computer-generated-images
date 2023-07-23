@@ -25,6 +25,7 @@ This is an up to date collection for the year 2023.
  * **[How to get started?](#how-to-get-started)**
  * **[Exploring advanced topics](#exploring-advanced-topics)**
  * **[Youtube Tutorials](#youtube-tutorials)**
+ * **[Coding Adventure](#coding-adventure)**
  * **[Books](#books)** 
  * **[Tools](#tools)**
  * **[Courses](#courses)**
@@ -101,6 +102,8 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 ## Youtube Tutorials
 
+[An introduction to Shader Art Coding](https://youtu.be/f4s1h2YETNY): In this tutorial, kishimisu explore the fascinating realm of shader art coding and aim to offer helpful insights and guidance to assist you in beginning your own creative journey.
+
 [The Coding Train ](https://www.youtube.com/@TheCodingTrain): The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more.
 
 [The Cherno](https://www.youtube.com/@thecherno): A YouTube channel run by Yan Chernikov, providing tutorials on game development, graphics programming, and various other programming topics.
@@ -115,6 +118,16 @@ As you actively explore advanced topics, your skills will improve, and your crea
 
 [BlenderGuru](https://www.youtube.com/@blenderguru): Andrew Price mission is to help everyone learn 3D for free within Blender.
 
+
+<br><br>
+
+## Coding Adventure
+
+[Coding Adventure: Ant and Slime Simulations](https://youtu.be/X-iSQQgOd1A): A small exploration of an algorithm inspired by ants, and some little experiments into simulating some of the behaviour of ants and slime moulds.
+* [Source code (slime):](https://github.com/SebLague/Slime-Simulation)
+* [Source code (ants):](https://github.com/SebLague/Ant-Simulation)
+
+  
 <br><br>
 
 ## Books
