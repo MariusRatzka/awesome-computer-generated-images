@@ -1,8 +1,8 @@
-# awesome-computer-graphics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-computer-generated-images [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # The Awesome Computer Graphics List (Update 2023) 
 
-<img src="https://github.com/MrJanes/awesome-computer-graphics/blob/main/media/D-1a.png" align="center" width="1000">
+<img src="https://github.com/MariusRatzka/awesome-computer-graphics/blob/main/media/D-1a.png" align="center" width="1000">
 
 
 ### Welcome to the awesome list of awe-inspiring resources for learning computer graphics! Here, we've assembled a collection of fantastic tools, books, courses, websites, and projects that will ignite your passion for this captivating field.
